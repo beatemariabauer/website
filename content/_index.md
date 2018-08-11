@@ -23,6 +23,12 @@ mediation_und_training:
     oder als Privatperson. Den eigenen Mut wieder entdecken und die Zukunft neu erdenken,
     dabei werde ich Sie begleiten, Sie dort abholen, wo Sie gerade stehen.</p>"
   bereiche:
+  - icon: "/uploads/2018/08/11/icon_mediation.png"
+    content: "<p><em>Mediation</em></p>"
+    hintergrundfarbe: rose hell
+  - content: "<p>WENDEPUNKTE<br>begleiten, Ihr <br>POTENZIAL<br>entdecken</p>"
+  - icon: "/uploads/2018/08/11/icon_tanz.png"
+    content: "<p><em>Tanz</em></p>"
   - content: "<p>eine gemeinsame <br>LANDKARTE <br>zeichnen</p>"
     hintergrundfarbe: grau
 kontakt:
