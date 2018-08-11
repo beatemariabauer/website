@@ -1,7 +1,7 @@
 {{ define "main" }}
 <div id="home">
-  <div id="teaser_oben" style="background:url({{partial "imgUrl" (dict "img" .Params.teaser_oben.bild "params" "c_scale,f_auto,w_400" )}}) right -50px bottom no-repeat;">
-    <img src="{{partial "imgUrl" (dict "img" .bild "params" "f_auto" )}} " />
+  <div class="ui container" id="teaser_oben" style="background:url({{partial "imgUrl" (dict "img" .Params.teaser_oben.bild "params" "c_scale,f_auto,h_800" )}}) left bottom no-repeat; background-size:contain">
+    <img src="{{partial "imgUrl" (dict "img" .Params.teaser_oben.logo "params" "f_auto" )}} " />
   </div>
 </div>
 {{ end }}
