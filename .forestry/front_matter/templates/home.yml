@@ -28,8 +28,8 @@ fields:
     name: hintergrund
     label: Hintergrund
   - type: text
-    name: link_bescchriftung
-    label: Link Bescchriftung
+    name: link_beschriftung
+    label: Link Beschriftung
   - type: select
     name: link
     config:
