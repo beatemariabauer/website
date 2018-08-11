@@ -1,6 +1,7 @@
 +++
 bild_header = ""
 date = "2018-05-25T09:46:59+02:00"
+seo_description = ""
 titel_header = "Haftungsausschluß"
 title = "Haftungsausschluss"
 type = "page"
@@ -8,24 +9,28 @@ type = "page"
 weight = 3
 
 +++
-### Haftungsausschluss
+### HAFTUNG FÜR INHALTE
 
-Wir übernehmen keine Haftung für die Inhalte externer Links. Für den Inhalt der verlinkten Seiten sind ausschließlich deren Betreiber verantwortlich. Wir distanzieren uns daher ausdrücklich von allen Inhalten der verlinkten Seiten. Alle innerhalb des Internetangebotes genannten und ggf. durch Dritte geschützten Marken- und Warenzeichen unterliegen uneingeschränkt den Bestim- mungen des jeweils gültigen Kennzeichenrechts und den Besitzrechten der jeweiligen eingetragenen Eigentümer. Alle verwendeten Medien wie Texte, Bilder, Wissensinhalte dürfen nicht ohne unsere schriftliche Genehmigung weiterverbreitet werden. Wir behalten uns vor, gegen Urheberrechtsverstöße Rechtsmittel einzu- setzen und Schadenersatzforderungen zu stellen. Angaben in der Webseite über Leistungen, Maße, Gewichte, Betriebskosten,  Lieferumfang und Aus- sehen stellen keine Zusicherung dar. Änderungen und Irrtum sind vorbehalten. Auch können Ab- bildungen zum Teil nicht serienmäßige, kostenpflich- tige Sonderausstattungen beinhalten. Dargestellte Farben können abweichen von den Originalfarben. Alle Angebote und Angaben in unserem Webauftritt sind unverbindlich und können jederzeit geändert werden. Wir behalten uns vor, ohne vorherige Ankündigung unseren Webauftritt zu verändern, zu ergänzen oder zu löschen.
+Die Inhalte unserer Seiten wurden mit größter Sorgfalterstellt. Für die Richtigkeit, Vollständigkeit und Aktualität der Inhalte können wir jedoch keine Gewähr übernehmen.
 
-Die jeweiligen Autoren und Verantwortlichen dieser Webseite übernehmen keine Haftung für den Inhalt der veröffentlichten Texte, Angebote und Bilder.
+Als Diensteanbieter sind wir gemäß § 7 Abs.1 TMG für eigene Inhalte auf diesen Seiten nach den allgemeinen Gesetzen verantwortlich. Nach §§ 8 bis 10 TMG sind wir als Diensteanbieter jedoch nicht verpflichtet, übermittelte oder gespeicherte fremde Informationen zu überwachen oder nach Umständen zu forschen, die auf eine rechtswidrige Tätigkeit hinweisen. Verpflichtungen zur Entfernung oder Sperrung der Nutzung von Informationen nach den allgemeinen Gesetzen bleiben hiervon unberührt. Eine diesbezügliche Haftung ist jedoch erst ab dem Zeitpunkt der Kenntnis einer konkreten Rechtsverletzung möglich. Bei bekannt werden von entsprechenden Rechtsverletzungen werden wir diese Inhalte umgehend entfernen.
 
-Das Geltendmachen von Ansprüchen jeglicher Art ist ausgeschlossen. 
+### HAFTUNG FÜR LINKS
 
-### Nutzungsbedingungen
+Unser Angebot enthält Links zu externen Webseiten Dritter, auf deren Inhalte wir keinen Einfluss haben. Deshalb können wir für diese fremden Inhalte auch keine Gewähr übernehmen. Für die Inhalte der verlinkten Seiten ist stets der jeweilige Anbieter oder Betreiber der Seiten verantwortlich.
 
-Dem Benutzer ist bekannt, dass die Nutzung des Internets und der E-Mail-Kommunikation (vergleichbar mit dem Versenden von Postkarten) Gefahren birgt. Daher kann u. a. nicht ausgeschlossen werden, dass Dritte unberechtigt auf vertrauliche Daten zugreifen, diese gegebenenfalls nutzen, verfälschen oder sogar löschen.
+Die verlinkten Seiten wurden zum Zeitpunkt der Verlinkung auf mögliche Rechtsverstöße überprüft. Rechtswidrige Inhalte waren zum Zeitpunkt der Verlinkung nicht erkennbar. Eine permanente inhaltliche Kontrolle der verlinkten Seiten ist jedoch ohne konkrete Anhaltspunkte einer Rechtsverletzung nicht zumutbar. Bei Bekanntwerden von Rechtsverletzungen werden wir derartige Links umgehend entfernen.
 
-Die E-Mail-Korrespondenz erfolgt ausnahmslos zum Informationsaustausch. Rechtlich verbindliche Erklärungen, insbesondere Verträge, bedürfen der Schriftform im Sinne der §§ 126, 127 des Bürgerlichen Gesetzbuches (eine elektronische Form im Sinne des § 126a BGB genügt hierzu nicht). Etwas anderes gilt nur, wenn eine anderslautende, selbst der Schriftform im Sinne der §§ 126, 127 des Bürgerlichen Gesetzbuches genügende, Abrede getroffen ist. Dies bedeutet, dass E-Mail-Korrespondenz grundsätzlich keine rechtlich verbindliche Erklärungswirkung entfaltet.
+### URHEBERRECHT
 
-### Abmahnungs-Klausel
+Die durch die Seitenbetreiber erstellten Inhalte und Werke auf diesen Seiten unterliegen dem deutschen Urheberrecht. Die Vervielfältigung, Bearbeitung, Verbreitung und jede Art der Verwertung außerhalb der Grenzen des Urheberrechtes bedürfen der schriftlichen Zustimmung des jeweiligen Autors bzw. Erstellers. Downloads und Kopien dieser Seite sind nur für den privaten, nicht kommerziellen Gebrauch gestattet.
 
-Wir bitten bei wettbewerbsrechtlichen, domain- rechtlichen, urheberrechtlichen oder sonstigen Problemen sowie zur Vermeidung unnötiger Rechtsstreitigkeiten und Kosten uns bereits im Vorfeld zu kontaktieren. Eine Kostennote einer anwaltlichen Abmahnung wird von uns - aus Gründen der Schadensminderung  (Schadensminderungspflicht) ohne vorausgehende Kontaktaufnahme zurückgewiesen.
+Soweit die Inhalte auf dieser Seite nicht vom Betreiber erstellt wurden, werden die Urheberrechte Dritter beachtet. Insbesondere werden Inhalte Dritter als solche gekennzeichnet. Sollten Sie trotzdem auf eine Urheberrechtsverletzung aufmerksam werden, bitten wir um einen entsprechenden Hinweis. Bei Bekanntwerden von Rechtsverletzungen werden wir derartige Inhalte umgehend entfernen.
 
-### Salvatorische Klausel
+### DATENSCHUTZ
 
-Sollten unsere rechtlichen Hinweise oder eine künftig in ihnen aufgenommene Bestimmung ganz oder teilweise nicht rechtswirksam oder nicht durchführbar sein oder ihre Rechts- wirksamkeit oder Durchführbarkeit später verlieren, so soll hierdurch die Gültigkeit der übrigen Bestimmungen nicht berührt werden und im Rahmen des rechtlich Zulässigen, mit dem am besten Entsprechenden ersetzt werden, gemäß dem Sinn und Zweck der entsprechenden Bestimmungen.
+Die Nutzung unserer Webseite ist in der Regel ohne Angabe personenbezogener Daten möglich. Soweit auf unseren Seiten personenbezogene Daten (beispielsweise Name, Anschrift oder eMail-Adressen) erhoben werden, erfolgt dies, soweit möglich, stets auf freiwilliger Basis. Diese Daten werden ohne Ihre ausdrückliche Zustimmung nicht an Dritte weitergegeben.
+
+Wir weisen darauf hin, dass die Datenübertragung im Internet (z.B. bei der Kommunikation per E-Mail) Sicherheitslücken aufweisen kann. Ein lückenloser Schutz der Daten vor dem Zugriff durch Dritte ist nicht möglich.
+
+Der Nutzung von im Rahmen der Impressumspflicht veröffentlichten Kontaktdaten durch Dritte zur Übersendung von nicht ausdrücklich angeforderter Werbung und Informationsmaterialien wird hiermit ausdrücklich widersprochen. Die Betreiber der Seiten behalten sich ausdrücklich rechtliche Schritte im Falle der unverlangten Zusendung von Werbeinformationen, etwa durch Spam-Mails, vor.
