@@ -5,7 +5,7 @@ type: page
 seo_description: ''
 teaser_oben:
   bild: "/uploads/2018/08/11/053cut.jpg"
-  logo: "/uploads/2018/08/11/BeateBauer_logo_final_Zeichenfläche 1.png"
+  logo: "/uploads/2018/08/11/logo.png"
 intro:
   content: "<p><strong>Am Wendepunkt angelangt?</strong> Ich begleite Menschen, Teams
     und Unternehmen, die Zukunft neu und selbst gestalten möchten. Sehr gerne referiere
