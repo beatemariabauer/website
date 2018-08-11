@@ -39,7 +39,7 @@ mediation_und_training:
   - content: "<p>eine gemeinsame <br>LANDKARTE <br>zeichnen</p>"
     hintergrundfarbe: grau
 kontakt:
-  hintergrundbild: ''
+  hintergrundbild: "/uploads/2018/08/11/Fotolia_119913606_M.jpg"
   kontaktdaten: []
 
 ---
