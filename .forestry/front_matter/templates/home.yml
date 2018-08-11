@@ -81,6 +81,9 @@ fields:
   name: kontakt
   label: Kontakt
   fields:
+  - type: text
+    name: titel
+    label: Titel
   - type: file
     name: hintergrundbild
     label: Hintergrundbild
