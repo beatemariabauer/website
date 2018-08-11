@@ -31,3 +31,22 @@ fields:
     wysiwyg: true
     schema:
       format: html-blocks
+- type: field_group
+  name: zielgruppen
+  label: Zielgruppen
+  fields:
+  - type: field_group_list
+    name: zielgruppe
+    label: Zielgruppe
+    fields:
+    - type: text
+    - type: textarea
+      name: titel
+      label: Titel
+      config:
+        wysiwyg: true
+        schema:
+          format: html-blocks
+    - type: file
+      name: bild
+      label: Bild
