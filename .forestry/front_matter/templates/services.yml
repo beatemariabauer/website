@@ -83,6 +83,6 @@ fields:
         type: pages
     label: Link
 pages:
-- content/tanz.html
 - content/mediation.html
 - content/coaching.html
+- content/tanz.html
