@@ -1,0 +1,40 @@
+---
+label: Kontakt
+hide_body: true
+is_partial: false
+fields:
+- type: text
+  name: karte
+  label: Karte
+- type: file
+  name: karte_platzhalter
+  label: Karte Platzhalter
+- type: field_group_list
+  name: kontaktdaten
+  label: Kontaktdaten
+  fields:
+  - type: select
+    name: icon
+    config:
+      source:
+        type: simple
+      options:
+      - envelope outline
+      - phone
+      - mobile alternate
+      - map marker alternate
+    label: Icon
+  - type: textarea
+    name: content
+    label: Content
+    config:
+      wysiwyg: true
+      schema:
+        format: html-blocks
+- type: textarea
+  name: content
+  label: Content
+  config:
+    wysiwyg: true
+    schema:
+      format: html-blocks
