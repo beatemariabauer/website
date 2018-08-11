@@ -10,47 +10,24 @@ untertitel_header = ""
 weight = 2
 
 +++
-**Körperkonzepte  | Praxis für Ernährungsmedizin**
+**Beate Maria Bauer**
 
-Leibnizstraße 56  
-10629 Berlin
+Matthias-Kraus-Gasse 17
 
-Tel  030 - 88 92 20 - 55  
-Fax 030 - 88 92 20 - 65
+93309 Kelheim
 
-info@koerperkonzepte.com  
-www.koerperkonzepte.com
+Tel. 0157 5952 5930 
 
-Vertretungsberechtigt: Daniela Kielkowski  
-Inhaltlich Verantwortlicher gemäß § 10 Absatz 3 MDStV:  
-Daniela Kielkowski – Ärztin
+bmb@beatemariabauer.de  
+www.beatemariabauer.de
 
-Zuständige Kammer:  
-Landesärztekammer Berlin  
-Hauptgeschäftsstelle  
-Friedrichstraße 16  
-10969 Berlin
+Umsatzsteuer-Identifikationsnummer gemäß § 27 a Umsatzsteuergesetz:
 
-Zuständige Aufsichtsbehörde:  
-Landesamt für Gesundheit und Soziales Berlin  
-Sächsische Straße 28  
-10707 Berlin
+Steuernummer: 126/214/21210
 
-Berufsbezeichnung: Arzt (verliehen in der Bundesrepublik Deutschland)
+Amtsgericht Kelheim
 
-Berufsrechtliche Regelungen:
-
-- Berufsordnung der Landesärztekammer Berlin
-
-- Heilberufegesetz des Landes Berlin
-
-Die Regelungen finden sich im Gesetzblatt des Landes Berlin
-
-Haftungshinweis: Trotz sorgfältiger inhaltlicher Kontrolle übernehmen wir keine Haftung
-
-für die Inhalte externer Links. Für den Inhalt der verlinkten Seiten sind ausschließlich
-
-deren Betreiber verantwortlich.
+Das Unternehmen nimmt nicht an Streitbeilegungsverfahren vor einer Verbraucherschlichtungsstelle teil.
 
 Design / Konzept  
 [elvira.beck | design](https://elvirabeck-design.de)
