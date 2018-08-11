@@ -14,10 +14,14 @@ intro:
     Regensburg, Passau, Kelheim, Ingolstadt)</p>"
   hintergrund: "/uploads/2018/08/11/Fotolia_47657161_M.jpg"
   link_bescchriftung: ''
-  link: ''
+  link: uber-mich.html
+  link_beschriftung: Mehr lesen
 mediation_und_training:
-  titel: ''
-  content: ''
+  titel: Mediation & Training
+  content: "<p>Wieder in die Gegenwart finden, sich neuen Impulsen hingeben, sich
+    herausnehmen aus dem täglich fordernden Getriebe, sei es für Sie als Unternehmerin
+    oder als Privatperson. Den eigenen Mut wieder entdecken und die Zukunft neu erdenken,
+    dabei werde ich Sie begleiten, Sie dort abholen, wo Sie gerade stehen.</p>"
   bereiche: []
 kontakt:
   hintergrundbild: ''
