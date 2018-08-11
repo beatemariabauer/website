@@ -22,7 +22,9 @@ mediation_und_training:
     herausnehmen aus dem täglich fordernden Getriebe, sei es für Sie als Unternehmerin
     oder als Privatperson. Den eigenen Mut wieder entdecken und die Zukunft neu erdenken,
     dabei werde ich Sie begleiten, Sie dort abholen, wo Sie gerade stehen.</p>"
-  bereiche: []
+  bereiche:
+  - content: "<p>eine gemeinsame <br>LANDKARTE <br>zeichnen</p>"
+    hintergrundfarbe: grau
 kontakt:
   hintergrundbild: ''
   kontaktdaten: []
