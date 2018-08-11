@@ -1,0 +1,46 @@
+---
+label: about
+hide_body: true
+is_partial: false
+fields:
+- type: file
+  name: bild_links
+  label: Bild links
+- type: textarea
+  name: content_rechts
+  label: Content rechts
+  config:
+    wysiwyg: true
+    schema:
+      format: html-blocks
+- type: field_group
+  name: zitat
+  label: Zitat
+  fields:
+  - type: textarea
+    name: content
+    label: Content
+    config:
+      wysiwyg: true
+      schema:
+        format: html-blocks
+  - type: text
+    name: quelle
+    label: Quelle
+  - type: file
+    name: hintergrundbild
+    label: Hintergrundbild
+- type: field_group_list
+  name: bereiche
+  label: Bereiche
+  fields:
+  - type: text
+    name: titel
+    label: Titel
+  - type: textarea
+    name: content
+    label: Content
+    config:
+      wysiwyg: true
+      schema:
+        format: html-blocks
