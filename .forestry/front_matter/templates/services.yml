@@ -39,6 +39,9 @@ fields:
   name: zielgruppen
   label: Zielgruppen
   fields:
+  - type: text
+    name: titel
+    label: Titel
   - type: field_group_list
     name: zielgruppe
     label: Zielgruppe
