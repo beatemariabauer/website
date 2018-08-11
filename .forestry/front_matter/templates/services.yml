@@ -1,0 +1,33 @@
+---
+label: Services
+hide_body: true
+is_partial: false
+fields:
+- type: file
+  name: header_bild
+  label: Header Bild
+- type: textarea
+  name: einleitung
+  label: Einleitung
+- type: field_group
+  name: icon_text_links
+  label: Icon Text links
+  fields:
+  - type: file
+    name: icon
+    label: Icon
+    description: optional
+  - type: textarea
+    name: content
+    label: Content
+    config:
+      wysiwyg: true
+      schema:
+        format: html-blocks
+- type: textarea
+  name: content_rechts
+  label: Content rechts
+  config:
+    wysiwyg: true
+    schema:
+      format: html-blocks
