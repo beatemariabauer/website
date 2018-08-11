@@ -2,4 +2,37 @@
 label: Home
 hide_body: true
 is_partial: false
-fields: []
+fields:
+- type: field_group
+  name: teaser_oben
+  label: Teaser oben
+  fields:
+  - type: file
+    name: bild
+    label: Bild
+  - type: file
+    name: logo
+    label: Logo
+- type: field_group
+  name: intro
+  label: Intro
+  fields:
+  - type: textarea
+    name: content
+    label: Content
+    config:
+      wysiwyg: true
+      schema:
+        format: html-blocks
+  - type: file
+    name: hintergrund
+    label: Hintergrund
+  - type: text
+    name: link_bescchriftung
+    label: Link Bescchriftung
+  - type: select
+    name: link
+    config:
+      source:
+        type: pages
+    label: Link
