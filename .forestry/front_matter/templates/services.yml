@@ -76,3 +76,5 @@ fields:
       source:
         type: pages
     label: Link
+pages:
+- content/coaching.html
