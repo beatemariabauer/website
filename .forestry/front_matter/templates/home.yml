@@ -66,6 +66,17 @@ fields:
         wysiwyg: true
         schema:
           format: html-blocks
+    - type: select
+      name: hintergrundfarbe
+      config:
+        source:
+          type: simple
+        options:
+        - rose hell
+        - rose
+        - rose dunkel
+        - grau
+      label: Hintergrundfarbe
 - type: field_group
   name: kontakt
   label: Kontakt
