@@ -4,7 +4,7 @@ date: 2018-07-06 18:19:54 +0000
 type: page
 seo_description: ''
 teaser_oben:
-  bild: "/uploads/2018/08/11/053.jpg"
+  bild: "/uploads/2018/08/11/053cut.jpg"
   logo: "/uploads/2018/08/11/BeateBauer_logo_final_Zeichenfläche 1.png"
 intro:
   content: "<p><strong>Am Wendepunkt angelangt?</strong> Ich begleite Menschen, Teams
