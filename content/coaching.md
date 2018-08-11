@@ -14,6 +14,8 @@ titel = ""
 [icon_text_links]
 content = "<p>Coaching</p>"
 icon = "/uploads/2018/08/11/icon_coaching.png"
+[menu.main]
+weight = 2
 [zielgruppen]
 titel = "Speziell für"
 [[zielgruppen.zielgruppe]]

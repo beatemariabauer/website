@@ -3,7 +3,6 @@ title: Home
 date: 2018-07-06 18:19:54 +0000
 type: page
 seo_description: ''
-menu: 'main'
 teaser_oben:
   bild: "/uploads/2018/08/11/053.jpg"
   logo: "/uploads/2018/08/11/BeateBauer_logo_final_Zeichenfläche 1.png"
@@ -52,5 +51,8 @@ kontakt:
   - icon: envelope outline
     content: <p><a href="mailto:bmb@beatemariabauer.de" title="">bmb@beatemariabauer.de</a></p>
   titel: Kontakt
+menu:
+  main:
+    weight: 1
 
 ---

@@ -14,6 +14,8 @@ titel = "Vorträge & Kurse"
 [icon_text_links]
 content = "<p>Mediation</p>"
 icon = "/uploads/2018/08/11/icon_mediation.png"
+[menu.main]
+weight = 3
 [zielgruppen]
 titel = ""
 zielgruppe = []

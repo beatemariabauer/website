@@ -14,6 +14,8 @@ titel = ""
 [icon_text_links]
 content = "<p>Tanz</p>"
 icon = "/uploads/2018/08/11/icon_tanz.png"
+[menu.main]
+weight = 4
 [zielgruppen]
 titel = ""
 zielgruppe = []
