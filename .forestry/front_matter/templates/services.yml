@@ -50,3 +50,29 @@ fields:
     - type: file
       name: bild
       label: Bild
+- type: field_group
+  name: conten_unten
+  label: Conten unten
+  fields:
+  - type: text
+    name: titel
+    label: Titel
+  - type: textarea
+    name: content
+    label: Content
+    config:
+      wysiwyg: true
+      schema:
+        format: html-blocks
+  - type: boolean
+    name: linkbutton_
+    label: Linkbutton?
+  - type: text
+    name: linkbeschriftung
+    label: Linkbeschriftung
+  - type: select
+    name: link
+    config:
+      source:
+        type: pages
+    label: Link
