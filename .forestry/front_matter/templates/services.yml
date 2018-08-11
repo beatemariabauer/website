@@ -46,7 +46,6 @@ fields:
     name: zielgruppe
     label: Zielgruppe
     fields:
-    - type: text
     - type: textarea
       name: titel
       label: Titel
