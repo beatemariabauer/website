@@ -10,11 +10,11 @@ intro:
   content: "<p><strong>Am Wendepunkt angelangt?</strong> Ich begleite Menschen, Teams
     und Unternehmen, die Zukunft neu und selbst gestalten möchten. Sehr gerne referiere
     hierzu gerne über die Sinnhaftigkeit eines erfolgreichen Konfliktmanagements im
-    gesamten ostbayerischen Raum.  Ich unterrichte Tanz im ostbayerischen Raum (Landshut,
-    Regensburg, Passau, Kelheim, Ingolstadt)</p>"
+    gesamten ostbayerischen Raum. Ich unterrichte Tanz im ostbayerischen Raum (Landshut,
+    Regensburg, Passau, Kelheim, Ingolstadt).</p>"
   hintergrund: "/uploads/2018/08/11/Fotolia_47657161_M.jpg"
   link_bescchriftung: ''
-  link: uber-mich.html
+  link: global/footer.md
   link_beschriftung: Mehr lesen
 mediation_und_training:
   titel: Mediation & Training
