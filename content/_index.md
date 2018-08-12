@@ -14,7 +14,7 @@ intro:
     Regensburg, Passau, Kelheim, Ingolstadt)..</p>"
   hintergrund: "/uploads/2018/08/11/Fotolia_47657161_M.jpg"
   link_bescchriftung: ''
-  link: global/footer.md
+  link: uber-mich.md
   link_beschriftung: Mehr lesen
 mediation_und_training:
   titel: Mediation & Training
