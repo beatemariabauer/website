@@ -32,7 +32,7 @@ mediation_und_training:
       aus dem Weg räumen und neue Türen öffnen Blickwinkel ändern</p>"
   - content: "<p>ZEIT<br>für neue<br>IMPULSE</p>"
     hintergrundfarbe: grau
-    content_ruckseite: "<p><strong>RUHE<br>&amp;<br>BEWEGUNG</strong></p>"
+    content_ruckseite: "<p><strong>RUHE</strong></p><p><strong>&amp;</strong></p><p><strong>BEWEGUNG</strong></p>"
     hintergrundfarbe_ruckseite: grau
   - icon: "/uploads/2018/08/11/icon_mediation.png"
     content: "<p><em>Mediation</em></p>"
@@ -54,7 +54,7 @@ mediation_und_training:
     hintergrundfarbe_ruckseite: rose dunkel
   - content: "<p>eine gemeinsame <br>LANDKARTE <br>zeichnen</p>"
     hintergrundfarbe: grau
-    content_ruckseite: "<p><strong>KONFLIKT-<br>PRÄVENTION</strong></p>"
+    content_ruckseite: "<p><strong>KONFLIKT-</strong></p><p><strong>PRÄVENTION</strong></p>"
     hintergrundfarbe_ruckseite: grau
 kontakt:
   hintergrundbild: "/uploads/2018/08/13/footer_pic.jpg"
