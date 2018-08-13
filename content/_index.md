@@ -39,7 +39,7 @@ mediation_und_training:
   - content: "<p>eine gemeinsame <br>LANDKARTE <br>zeichnen</p>"
     hintergrundfarbe: grau
 kontakt:
-  hintergrundbild: "/uploads/2018/08/11/Fotolia_119913606_M.jpg"
+  hintergrundbild: "/uploads/2018/08/13/footer_pic.jpg"
   kontaktdaten:
   - icon: map marker alternate
     content: "<p><strong>Beate Maria Bauer</strong></p><p>Matthias-Kraus-Gasse 17<br>93309
