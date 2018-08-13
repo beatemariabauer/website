@@ -12,7 +12,7 @@ intro:
     hierzu gerne über die Sinnhaftigkeit eines erfolgreichen Konfliktmanagements im
     gesamten ostbayerischen Raum. Ich unterrichte Tanz im ostbayerischen Raum (Landshut,
     Regensburg, Passau, Kelheim, Ingolstadt).</p>"
-  hintergrund: "/uploads/2018/08/11/Fotolia_47657161_M.jpg"
+  hintergrund: "/uploads/2018/08/13/strand.jpg"
   link_bescchriftung: ''
   link: uber-mich.md
   link_beschriftung: Mehr lesen
