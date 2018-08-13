@@ -43,11 +43,19 @@ mediation_und_training:
     hintergrundfarbe_ruckseite: rose hell
   - content: "<p>WENDEPUNKTE<br>begleiten, Ihr <br>POTENZIAL<br>entdecken</p>"
     hintergrundfarbe: grau
+    content_ruckseite: "<p>BEGLEITUNG</p>"
+    hintergrundfarbe_ruckseite: grau
   - icon: "/uploads/2018/08/11/icon_tanz.png"
     content: "<p><em>Tanz</em></p>"
     hintergrundfarbe: rose
+    icon_ruckseite: "/uploads/2018/08/11/icon_tanz.png"
+    content_ruckseite: "<p><em>Tanz</em></p><p>Stille erleben selbst wirksam werden
+      die eigene Zukunft kreieren</p>"
+    hintergrundfarbe_ruckseite: rose dunkel
   - content: "<p>eine gemeinsame <br>LANDKARTE <br>zeichnen</p>"
     hintergrundfarbe: grau
+    content_ruckseite: "<p>KONFLIKT-<br>PRÄVENTION</p>"
+    hintergrundfarbe_ruckseite: grau
 kontakt:
   hintergrundbild: "/uploads/2018/08/13/footer_pic.jpg"
   kontaktdaten:
