@@ -77,6 +77,27 @@ fields:
         - rose dunkel
         - grau
       label: Hintergrundfarbe
+    - type: file
+      name: icon_ruckseite
+      label: Icon Rückseite
+    - type: textarea
+      name: content_ruckseite
+      label: Content Rückseite
+      config:
+        wysiwyg: true
+        schema:
+          format: html-blocks
+    - type: select
+      name: hintergrundfarbe_ruckseite
+      config:
+        source:
+          type: simple
+        options:
+        - rose
+        - rose hell
+        - rose dunkel
+        - grau
+      label: Hintergrundfarbe Rückseite
 - type: field_group
   name: kontakt
   label: Kontakt
