@@ -12,19 +12,16 @@ weight = 2
 +++
 **Beate Maria Bauer**
 
-Matthias-Kraus-Gasse 17
-
+Matthias-Kraus-Gasse 17  
 93309 Kelheim
 
-Tel. 0157 5952 5930 
+Tel. 0157 5952 5930
 
-bmb@beatemariabauer.de  
-www.beatemariabauer.de
+[bmb@beatemariabauer.de  
+](mailto:bmb@beatemariabauer.de)www.beatemariabauer.de
 
-Umsatzsteuer-Identifikationsnummer gemäß § 27 a Umsatzsteuergesetz:
-
-Steuernummer: 126/214/21210
-
+Umsatzsteuer-Identifikationsnummer gemäß § 27 a Umsatzsteuergesetz:  
+Steuernummer: 126/214/21210  
 Amtsgericht Kelheim
 
 Das Unternehmen nimmt nicht an Streitbeilegungsverfahren vor einer Verbraucherschlichtungsstelle teil.
