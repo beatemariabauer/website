@@ -4,6 +4,7 @@ date = "2018-08-11T11:32:37+02:00"
 einleitung = ""
 header_bild = "/uploads/2018/08/11/head_unterseiten.jpg"
 intro = "<p><em>Für Menschen mit dem Wunsch nach Veränderung während oder nach neuer Lebensphasen (nach Scheidung, nach Trauerphase, nach Krankheit)</em></p>"
+seo_description = ""
 title = "Coaching"
 [conten_unten]
 content = ""
@@ -19,13 +20,13 @@ weight = 2
 [zielgruppen]
 titel = "Speziell für"
 [[zielgruppen.zielgruppe]]
-bild = "/uploads/2018/08/11/Fotolia_119913606_M.jpg"
+bild = "/uploads/2018/08/13/pfleg_hospitz.jpg"
 titel = "<p>Pflege <br>&amp; Hospiz</p>"
 [[zielgruppen.zielgruppe]]
-bild = "/uploads/2018/08/11/Fotolia_119913606_M.jpg"
+bild = "/uploads/2018/08/13/praxis_klinik.jpg"
 titel = "<p>Praxis &amp; <br>Klinikteams</p>"
 [[zielgruppen.zielgruppe]]
-bild = "/uploads/2018/08/11/Fotolia_119913606_M.jpg"
+bild = "/uploads/2018/08/13/kindergarten_hort.jpg"
 titel = "<p>Kindergarten <br>&amp; Hort</p>"
 
 +++
