@@ -26,11 +26,21 @@ mediation_und_training:
   - icon: "/uploads/2018/08/11/icon_coaching.png"
     content: "<p><em>Coaching</em></p>"
     hintergrundfarbe: rose hell
+    icon_ruckseite: "/uploads/2018/08/11/icon_coaching.png"
+    hintergrundfarbe_ruckseite: rose
+    content_ruckseite: "<p><em>Coaching</em></p><p>klare Worte finden Hindernisse
+      aus dem Weg räumen und neue Türen öffnen Blickwinkel ändern</p>"
   - content: "<p>ZEIT<br>für neue<br>IMPULSE</p>"
     hintergrundfarbe: grau
+    content_ruckseite: "<p>RUHE<br>&amp;<br>BEWEGUNG</p>"
+    hintergrundfarbe_ruckseite: grau
   - icon: "/uploads/2018/08/11/icon_mediation.png"
     content: "<p><em>Mediation</em></p>"
     hintergrundfarbe: rose hell
+    icon_ruckseite: "/uploads/2018/08/11/icon_mediation.png"
+    content_ruckseite: "<p><em>Mediation</em></p><p>Sich und dem anderen eigene Standpunkte
+      klarmachen<br>Geben und Nehmen<br>tragfähige Lösungen finden<br>win-win-win</p>"
+    hintergrundfarbe_ruckseite: rose hell
   - content: "<p>WENDEPUNKTE<br>begleiten, Ihr <br>POTENZIAL<br>entdecken</p>"
     hintergrundfarbe: grau
   - icon: "/uploads/2018/08/11/icon_tanz.png"
