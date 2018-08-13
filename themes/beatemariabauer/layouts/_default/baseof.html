@@ -11,6 +11,7 @@
   <link rel="stylesheet" href="{{ $.Site.BaseURL }}/lib/semantic.min.css">
   <link rel="stylesheet" href="{{ $.Site.BaseURL }}/styles.css">
   <link rel="shortcut icon" href="{{ $.Site.BaseURL }}/favicon.png" type="image/x-icon"> {{ partial "meta.html" . }}
+  <link type="text/css" rel="stylesheet" href="//fast.fonts.net/cssapi/49084558-7f89-4650-abc9-d0902b866438.css" />
   <script type="text/javascript" src="{{ $.Site.BaseURL }}/lib/jquery.min.js"></script>
 </head>
 
@@ -22,31 +23,19 @@
   {{ partial "footer.html" . }}
 
   <script type="text/javascript" src="{{ $.Site.BaseURL }}/lib/semantic.min.js"></script>
-  <script type="text/javascript" src="{{ $.Site.BaseURL }}/lib/slippry.min.js"></script>
-  <link rel="stylesheet" href="{{ $.Site.BaseURL }}/lib/slippry.min.css">
   <script type="text/javascript">
     $(function () {
-      $('#slider').slippry({
-        // general elements & wrapper
-        slippryWrapper: '<div class="sy-box topslider" />', // wrapper to wrap everything, including pager
-        elements: 'li', // elments cointaining slide content
-
-        // options
-        adaptiveHeight: false, // height of the sliders adapts to current 
-        captions: false,
-        loop: true,
-        // pager
-        pager: false,
-        start: 2,
-        // transitions
-        slideMargin: 0, // spacing between slides (in %)
-        useCSS: true,
-        transition: 'horizontal',
-
-        // slideshow
-        autoDirection: 'next'
+      $(window).scroll(function () {
+        var pos = window.pageYOffset || document.documentElement.scrollTop;
+        if (pos === 0) {
+          $('header').removeClass('scrolled');
+          $('.logo').removeClass('scrolled');
+        }
+        if (pos > 0 && !$('header').hasClass('scrolled')) {
+          $('header').addClass('scrolled');
+          $('.logo').addClass('scrolled');
+        }
       });
-      $('.ui.embed').embed();
     });
   </script>
 </body>
