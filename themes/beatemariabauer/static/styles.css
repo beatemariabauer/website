@@ -189,6 +189,34 @@ footer .footermenu a:last-child:after {
 #home #services .ccont {
   margin-bottom: 2rem;
 }
+#home #services .sber .ui.shape {
+  width: 100%;
+  height: 100%!important;
+}
+#home #services .sber .ui.shape .sides {
+  width: 100%;
+  height: 100%!important;
+}
+#home #services .sber .ui.shape .sides .side {
+  width: 100%;
+  height: 100%!important;
+}
+#home #services .sber .ui.shape .side.back .inner {
+  font-size: 1.5rem;
+}
+#home #services .sber .ui.shape .side.back .inner img {
+  position: absolute;
+  right: 1rem;
+  top: 1rem;
+  width: 20%;
+}
+#home #services .sber .ui.shape .side.back .inner em {
+  margin: 2rem 0 1rem 0;
+}
+#home #services .sber .ui.shape .side.back .inner strong {
+  font-size: 3rem;
+  font-weight: normal;
+}
 #home #services .sber .inner {
   display: flex;
   justify-content: center;
@@ -218,7 +246,7 @@ footer .footermenu a:last-child:after {
   font-size: 4rem;
 }
 #home #services .sber .inner img {
-  max-width: 50%;
+  max-width: 40%;
 }
 .kontform .ui.button {
   color: white;

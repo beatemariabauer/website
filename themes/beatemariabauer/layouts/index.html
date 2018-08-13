@@ -27,9 +27,21 @@
     <div class="ui three column grid">
       {{ range .Params.mediation_und_training.bereiche }}
       <div class="ui column sber">
-        <div class="inner {{.hintergrundfarbe}}">
-          {{with .icon}}
-          <img src="{{partial "imgUrl" (dict "img" . "params" "f_auto" )}} " /> {{end}} {{.content | safeHTML}}
+        <div class="ui shape">
+          <div class="sides">
+            <div class="active side">
+              <div class="inner {{.hintergrundfarbe}}">
+                {{with .icon}}
+                <img src="{{partial "imgUrl" (dict "img" . "params" "f_auto" )}} " /> {{end}} {{.content | safeHTML}}
+              </div>
+            </div>
+            <div class="side back">
+              <div class="inner {{.hintergrundfarbe_ruckseite}}">
+                {{with .icon_ruckseite}}
+                <img src="{{partial "imgUrl" (dict "img" . "params" "f_auto" )}} " /> {{end}} {{.content_ruckseite | safeHTML}}
+              </div>
+            </div>
+          </div>
         </div>
       </div>
       {{ end}}

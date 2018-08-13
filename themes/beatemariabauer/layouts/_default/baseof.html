@@ -36,6 +36,12 @@
           $('.logo').addClass('scrolled');
         }
       });
+      $('.shape').mouseenter(function () {
+        $(this).shape('flip back');
+      });
+      $('.shape').mouseleave(function () {
+        $(this).shape('flip over');
+      });
     });
   </script>
 </body>
