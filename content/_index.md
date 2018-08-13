@@ -44,10 +44,8 @@ kontakt:
   - icon: map marker alternate
     content: "<p><strong>Beate Maria Bauer</strong></p><p>Matthias-Kraus-Gasse 17<br>93309
       Kelheim</p>"
-  - icon: phone
-    content: "<p>0 12 34 - 56 78 91 0</p>"
   - icon: mobile alternate
-    content: "<p>0 171 - 12 34 56 7</p>"
+    content: "<p>0 159 06 04 96 92</p>"
   - icon: envelope outline
     content: <p><a href="mailto:bmb@beatemariabauer.de" title="">bmb@beatemariabauer.de</a></p>
   titel: Kontakt
