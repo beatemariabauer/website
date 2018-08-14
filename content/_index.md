@@ -39,7 +39,7 @@ mediation_und_training:
     hintergrundfarbe: rose hell
     icon_ruckseite: "/uploads/2018/08/11/icon_mediation.png"
     content_ruckseite: "<p><em>Mediation</em></p><p>Sich und dem anderen eigene Standpunkte
-      klarmachen<br>Geben und Nehmen<br>tragfähige Lösungen finden<br>win-win-win</p>"
+      klarmachen - Geben und Nehmen - tragfähige Lösungen finden - win-win-win</p>"
     hintergrundfarbe_ruckseite: rose hell
   - content: "<p>WENDEPUNKTE<br>begleiten, Ihr <br>POTENZIAL<br>entdecken</p>"
     hintergrundfarbe: grau
