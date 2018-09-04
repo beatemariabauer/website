@@ -81,6 +81,7 @@ fields:
     config:
       source:
         type: pages
+        section: pages
     label: Link
 - type: text
   name: seo_description
