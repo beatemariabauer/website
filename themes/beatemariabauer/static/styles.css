@@ -148,6 +148,10 @@ footer .footermenu a:last-child:after {
   margin-bottom: 0.5rem;
   background: url('/listicon.png') left 0.3rem no-repeat;
 }
+#kontakt .embed {
+  height: 100%;
+  width: 100%;
+}
 .sub.services {
   padding-bottom: 2rem;
 }
@@ -277,6 +281,24 @@ footer .footermenu a:last-child:after {
   color: white;
   font-style: italic;
 }
+.kdata {
+  margin: 0;
+  padding: 0 0 0 4rem;
+  columns: 2;
+  column-gap: 2rem;
+}
+.kdata li {
+  color: rgba(173, 113, 117, 0.77);
+  line-height: 1.5rem;
+  display: flex;
+  justify-content: left;
+}
+.kdata li strong {
+  font-weight: bold;
+}
+.kdata li i {
+  margin-right: 1rem;
+}
 #home #teaser_oben {
   position: relative;
   height: 85vh;
@@ -309,24 +331,6 @@ footer .footermenu a:last-child:after {
 }
 #home #kontakt .ui.grid {
   margin-top: 2rem;
-}
-#home #kontakt .kdata {
-  margin: 0;
-  padding: 0 0 0 4rem;
-  columns: 2;
-  column-gap: 2rem;
-}
-#home #kontakt .kdata li {
-  color: rgba(173, 113, 117, 0.77);
-  line-height: 1.5rem;
-  display: flex;
-  justify-content: left;
-}
-#home #kontakt .kdata li strong {
-  font-weight: bold;
-}
-#home #kontakt .kdata li i {
-  margin-right: 1rem;
 }
 #home #services {
   margin-bottom: 2rem;

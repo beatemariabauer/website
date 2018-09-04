@@ -1,6 +1,7 @@
 +++
 content = "<p>Ich freue mich auf Ihre Anfrage und werde diese schnellstmöglichst beantworten, Gerne stehe ich Ihnen auch persönlich für einen ersten Beratungstermin zur Verfügung.</p>"
 date = "2018-08-11T11:33:41+02:00"
+layout="kontakt"
 hintergrund = "/uploads/2018/08/11/Fotolia_119913606_M.jpg"
 karte = "https://www.openstreetmap.org/export/embed.html?bbox=11.862530708312988%2C48.91358765320997%2C11.885704994201662%2C48.92564332915256&amp;layer=mapnik&amp;marker=48.919607868464254%2C11.874111481010914"
 karte_platzhalter = "/uploads/2018/08/11/1.jpeg"

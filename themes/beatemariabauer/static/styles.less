@@ -155,6 +155,12 @@ footer{
     }
   }
 }
+#kontakt{
+  .embed{
+    height:100%;
+    width:100%;
+  }
+}
 .sub{
   &.services{
     padding-bottom:2rem;
@@ -286,6 +292,24 @@ footer{
     }
   }
 }
+.kdata{
+  margin:0;
+  padding:0 0 0 4rem;
+  columns:2;
+  column-gap: 2rem;
+  li{
+    color:@rose;
+    line-height:1.5rem; 
+    strong{
+      font-weight:bold;
+    }
+    display:flex;
+    justify-content: left;
+    i{
+      margin-right:1rem;
+    }
+  }
+}
 #home{
   #teaser_oben{
     position:relative;
@@ -319,24 +343,7 @@ footer{
     .ui.grid{
       margin-top:2rem;
     }
-    .kdata{
-      margin:0;
-      padding:0 0 0 4rem;
-      columns:2;
-      column-gap: 2rem;
-      li{
-        color:@rose;
-        line-height:1.5rem; 
-        strong{
-          font-weight:bold;
-        }
-        display:flex;
-        justify-content: left;
-        i{
-          margin-right:1rem;
-        }
-      }
-    }
+    
   }
   #services{
     margin-bottom:2rem;
