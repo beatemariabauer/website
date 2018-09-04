@@ -132,6 +132,33 @@ footer .footermenu a:after {
 footer .footermenu a:last-child:after {
   content: '';
 }
+#about {
+  padding-bottom: 1rem;
+}
+#about h1 {
+  text-align: left;
+  font-size: 4rem;
+  display: inline-block;
+  background-size: contain;
+}
+#about .content_rechts {
+  padding-top: 2rem;
+}
+#about .content_rechts p:first-child:first-letter {
+  float: left;
+  font-size: 3rem;
+  line-height: 2rem;
+  margin-top: -0.65rem;
+  margin-right: 0.25rem;
+  color: #ad7175;
+}
+@media (max-width: 767px) {
+  #about .content_rechts p:first-child:first-letter {
+    font-size: 2rem;
+    line-height: 2rem;
+    margin-top: -0.71rem;
+  }
+}
 #home #teaser_oben {
   position: relative;
   height: 85vh;
