@@ -137,8 +137,48 @@ footer{
     }
   }
 }
+.subbereiche{
+  h2{
+    margin-bottom:2rem;
+  }
+  ul{
+    padding:0;
+    li{
+      list-style-type: none;
+      padding-left:24px;
+      color:@rose_dunkel;
+      font-size:1.2rem;
+      font-weight:bold;
+      line-height:1.8rem;
+      margin-bottom:0.5rem;
+      background:url('/listicon.png')left 0.3rem no-repeat;
+    }
+  }
+}
+.sub{
+  &.services{
+    h1{
+      margin:0!important;
+      padding:8vh 3rem 2rem 3rem;
+      text-align:left;
+      display:inline-block;
+      background-size:contain;
+      font-size:8rem;
+    }
+    .slogan{
+      background:@grey_light;
+      .container{
+        padding:3rem 0;
+        color:@rose;
+        text-align:center;
+        font-size:1.1rem;
+        line-height:2rem;
+      }
+    }
+  }
+}
 #about{
-  padding-bottom:1rem;
+  padding-bottom:2rem;
   h1{
     text-align:left;
     font-size:4rem;
@@ -159,6 +199,25 @@ footer{
         line-height: 2rem;
         margin-top:-0.71rem;
       }
+    }
+  }
+  #zitat{
+    margin-top:1rem;
+    position:relative;
+    blockquote{
+      text-align:center;
+      color:white;
+      font-size:5rem;
+      padding:3rem 0;
+      margin:0;
+      font-family: 'Born Ready W00 Regular',Arial, Helvetica, sans-serif; 
+    }
+    .quelle{
+      position:absolute;
+      right:0;
+      bottom:1rem;
+      color:white;
+      font-style:italic;
     }
   }
 }

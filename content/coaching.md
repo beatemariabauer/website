@@ -5,6 +5,7 @@ einleitung = ""
 header_bild = "/uploads/2018/08/11/head_unterseiten.jpg"
 intro = "<p><em>Für Menschen mit dem Wunsch nach Veränderung während oder nach neuer Lebensphasen (nach Scheidung, nach Trauerphase, nach Krankheit)</em></p>"
 seo_description = ""
+layout="services"
 title = "Coaching"
 [conten_unten]
 content = ""

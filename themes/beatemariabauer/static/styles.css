@@ -132,8 +132,42 @@ footer .footermenu a:after {
 footer .footermenu a:last-child:after {
   content: '';
 }
+.subbereiche h2 {
+  margin-bottom: 2rem;
+}
+.subbereiche ul {
+  padding: 0;
+}
+.subbereiche ul li {
+  list-style-type: none;
+  padding-left: 24px;
+  color: #ad7175;
+  font-size: 1.2rem;
+  font-weight: bold;
+  line-height: 1.8rem;
+  margin-bottom: 0.5rem;
+  background: url('/listicon.png') left 0.3rem no-repeat;
+}
+.sub.services h1 {
+  margin: 0!important;
+  padding: 8vh 3rem 2rem 3rem;
+  text-align: left;
+  display: inline-block;
+  background-size: contain;
+  font-size: 8rem;
+}
+.sub.services .slogan {
+  background: #f6f6f6;
+}
+.sub.services .slogan .container {
+  padding: 3rem 0;
+  color: rgba(173, 113, 117, 0.77);
+  text-align: center;
+  font-size: 1.1rem;
+  line-height: 2rem;
+}
 #about {
-  padding-bottom: 1rem;
+  padding-bottom: 2rem;
 }
 #about h1 {
   text-align: left;
@@ -158,6 +192,25 @@ footer .footermenu a:last-child:after {
     line-height: 2rem;
     margin-top: -0.71rem;
   }
+}
+#about #zitat {
+  margin-top: 1rem;
+  position: relative;
+}
+#about #zitat blockquote {
+  text-align: center;
+  color: white;
+  font-size: 5rem;
+  padding: 3rem 0;
+  margin: 0;
+  font-family: 'Born Ready W00 Regular', Arial, Helvetica, sans-serif;
+}
+#about #zitat .quelle {
+  position: absolute;
+  right: 0;
+  bottom: 1rem;
+  color: white;
+  font-style: italic;
 }
 #home #teaser_oben {
   position: relative;
