@@ -1,5 +1,5 @@
 +++
-content_rechts = "<p>Das Finden der besten Lösung für Konfliktparteien: Als Mediatorin bin ich keine Richterin, die ein Urteil fällt. Ich bin allparteilich, beiden Seiten zugewandt und setze mich gleichermaßen für alle Beteiligten ein.</p><p>Ich unterstütze Sie dabei, den Blick in die Zukunft zu richten, so dass aus verschiedenen Welten nach und nach ein tragfähiges Ziel entsteht, mit dem Sie gut leben können. Nur Sie wissen, was gut für sie ist!</p><p>Was Sie mitbringen sollten: Offenheit und Wagemut.</p><p>Mediation findet ihren Einsatz</p><p>bei Scheidung/Trennungen und Familienangelegenheiten</p><p>bei Konflikten zur Steuerung der Unternehmensnachfolge und/oder Erbschaftsstreitigkeiten</p><p>in der Hospizarbeit in Familien</p>"
+content_rechts = "<p>Das Finden der besten Lösung für Konfliktparteien: Als Mediatorin bin ich keine Richterin, die ein Urteil fällt. Ich bin allparteilich, beiden Seiten zugewandt und setze mich gleichermaßen für alle Beteiligten ein.</p><p>Ich unterstütze Sie dabei, den Blick in die Zukunft zu richten, so dass aus verschiedenen Welten nach und nach ein tragfähiges Ziel entsteht, mit dem Sie gut leben können. Nur Sie wissen, was gut für sie ist!</p><p><strong>Was Sie mitbringen sollten: Offenheit und Wagemut.</strong></p><p><b>Mediation findet ihren Einsatz</b></p><p>bei Scheidung/Trennungen und Familienangelegenheiten</p><p>bei Konflikten zur Steuerung der Unternehmensnachfolge und/oder Erbschaftsstreitigkeiten</p><p>in der Hospizarbeit in Familien</p>"
 date = "2018-08-11T11:32:57+02:00"
 einleitung = ""
 header_bild = "/uploads/2018/08/11/head_unterseiten.jpg"
@@ -21,5 +21,13 @@ weight = 3
 [zielgruppen]
 titel = "Speziell für"
 [[zielgruppen.zielgruppe]]
+bild = "/uploads/2018/08/13/pfleg_hospitz.jpg"
+titel = "<p>Pflege <br>&amp; Hospiz</p>"
+[[zielgruppen.zielgruppe]]
+bild = "/uploads/2018/08/13/praxis_klinik.jpg"
+titel = "<p>Praxis &amp; <br>Klinikteams</p>"
+[[zielgruppen.zielgruppe]]
+bild = "/uploads/2018/08/13/kindergarten_hort.jpg"
+titel = "<p>Kindergarten <br>&amp; Hort</p>"
 
 +++
