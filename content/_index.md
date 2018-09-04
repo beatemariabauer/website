@@ -2,7 +2,7 @@
 title: Home
 date: 2018-07-06 18:19:54 +0000
 type: page
-seo_description: ''
+seo_description: 'Mediation, '
 teaser_oben:
   bild: "/uploads/2018/08/11/053cut.jpg"
   logo: "/uploads/2018/08/11/logo.png"
