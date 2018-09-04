@@ -39,6 +39,11 @@ a{
 main{
   padding-top:15vh;
 }
+@media (max-width: 767px){
+  .ui.container.fluid{
+    margin:0!important;
+  }
+}
 header{
   > .container{
     position:relative;
@@ -60,6 +65,9 @@ header{
       transition-duration: 0.5s;
       transition-timing-function: ease-in-out;
     }
+    @media (max-width: 767px){
+      max-height:60px;
+    }
   }
   border-bottom:1px solid @grey;
   -webkit-box-shadow: 0px 0px 36px 0px rgba(122,122,122,1);
@@ -80,10 +88,14 @@ header{
     transition-property: all;
     transition-duration: 0.5s;
     transition-timing-function: ease-in-out;
+    @media (max-width: 767px){
+      height:10vh;
+    }
   }
   #headermenu{
     display:flex;
     justify-content: flex-end;
+    flex-wrap: wrap;
     width:100%;
     .headermenuitem{
       text-transform: uppercase;
@@ -103,6 +115,12 @@ header{
       &:last-child:after{
         content:''; 
       }
+      @media (max-width: 767px){
+        &:after{
+          display:none;
+        }
+        margin-bottom:0.25rem;  
+      }
     }
   }
 }
@@ -112,18 +130,32 @@ footer{
   padding:0 2rem;
   justify-content: space-between;
   background:@rose_dunkel;
+  @media (max-width: 767px){
+    padding:0 1rem;
+    flex-wrap: wrap;
+  }
   > a{
     color:white!important;
     padding:1rem 0 1rem 1rem;
+    @media (max-width: 767px){
+      padding:1rem 0;
+    }
   }
   .footermenu{
     display:flex!important;
     justify-content: left;
+    @media (max-width: 767px){
+      flex-wrap: wrap;
+    }
     a{
       color:white!important;
       padding:1rem 0 1rem 1rem;
       @media (max-width: 767px){
-        padding:1rem 0.5rem;
+        padding:0.25rem 0.5rem 0.25rem 0 ;
+        line-height:1.2rem;
+        &:after{
+          display:none;
+        }
       }
       &:after{
         content:'|';
@@ -155,13 +187,30 @@ footer{
     }
   }
 }
-#kontakt{
-  .embed{
-    height:100%;
-    width:100%;
-  }
-}
 .sub{
+  &.kontakt{
+    h1{
+      margin-bottom:4rem;
+    }
+    .embed{
+      height:100%;
+      width:100%;
+    }
+    .content{
+      padding:0 4rem 2rem 4rem!important;
+    }
+    .txt{
+      padding:2rem 0;
+    }
+    .kdata{
+      padding:0;
+    }
+    @media (max-width: 767px){
+      #cont{
+        padding:1rem!important;
+      }
+    }
+  }
   &.services{
     padding-bottom:2rem;
     h1{
@@ -171,6 +220,9 @@ footer{
       display:inline-block;
       background-size:contain;
       font-size:8rem;
+      @media (max-width: 767px){
+        font-size:4rem;
+      }
     }
     .slogan{
       background:@grey_light;
@@ -250,11 +302,29 @@ footer{
 }
 #about{
   padding-bottom:2rem;
+  .imgcol{
+    min-height:150px;
+  }
   h1{
     text-align:left;
     font-size:4rem;
     display:inline-block;
     background-size:contain;
+    @media (max-width: 767px){
+      margin-top:0!important; 
+    }
+  }
+  #oben{
+    &.ui.container{
+      margin:0!important;
+      @media (max-width: 767px){
+        .ui.grid{
+          .ui.column{
+            padding:1rem!important;
+          }
+        }
+      }
+    }
   }
   .content_rechts{
     padding-top:2rem;
@@ -319,6 +389,10 @@ footer{
       position:absolute;
       right:-100px;
       top:20vh;
+      @media (max-width: 767px){
+        right:-60px;
+        top:0;
+      }
     }
   }
   #intro{
@@ -337,13 +411,21 @@ footer{
         border-radius: 0.75rem;
       }
     }
+    @media (max-width: 767px){
+      font-size:1.0rem;
+      line-height:1.5rem;
+    }
   }
   #kontakt{
     padding-bottom:2rem;
     .ui.grid{
       margin-top:2rem;
     }
-    
+    @media (max-width: 767px){
+      .kdata{
+        padding:0;  
+      }
+    }
   }
   #services{
     margin-bottom:2rem;

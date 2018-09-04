@@ -6,7 +6,7 @@
         <div class="ui 4:3 embed" data-url="{{.Params.karte}}" data-icon="zoom in">
         </div>
       </div>
-      <div class="ui column content">
+      <div class="ui column content" id="cont">
         <h1>{{.Title}}</h1>
         <ul class="kdata">
           {{ range .Params.kontaktdaten }}
@@ -16,7 +16,10 @@
           </li>
           {{end}}
         </ul>
-        {{.Params.content | safeHTML}} {{partial "kontform"}}
+        <div class="txt">
+          {{.Params.content | safeHTML}}
+        </div>
+        {{partial "kontform"}}
       </div>
     </div>
   </div>

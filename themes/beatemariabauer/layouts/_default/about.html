@@ -2,8 +2,8 @@
 <div id="about">
   <div class="ui container fluid" style="background:#f6f6f6">
     <div class="ui container" id="oben">
-      <div class="ui two column grid">
-        <div class="ui column" style="background:url({{partial "imgUrl" (dict "img" .Params.bild_links "params" "c_scale,f_auto,h_800" )}}) right top no-repeat #f6f6f6; background-size:cover"></div>
+      <div class="ui two column grid stackable">
+        <div class="ui column imgcol" style="background:url({{partial "imgUrl" (dict "img" .Params.bild_links "params" "c_scale,f_auto,h_800" )}}) right top no-repeat #f6f6f6; background-size:cover"></div>
         <div class="ui column">
           <h1>{{.Title}}</h1>
           <div class="content_rechts">

@@ -35,6 +35,11 @@ a {
 main {
   padding-top: 15vh;
 }
+@media (max-width: 767px) {
+  .ui.container.fluid {
+    margin: 0!important;
+  }
+}
 header {
   height: 15vh;
   padding: 0;
@@ -69,6 +74,11 @@ header .logo.scrolled {
   transition-duration: 0.5s;
   transition-timing-function: ease-in-out;
 }
+@media (max-width: 767px) {
+  header .logo {
+    max-height: 60px;
+  }
+}
 header.scrolled {
   height: 8vh;
   -webkit-box-shadow: 0px 0px 20px 0px #7a7a7a;
@@ -78,9 +88,15 @@ header.scrolled {
   transition-duration: 0.5s;
   transition-timing-function: ease-in-out;
 }
+@media (max-width: 767px) {
+  header.scrolled {
+    height: 10vh;
+  }
+}
 header #headermenu {
   display: flex;
   justify-content: flex-end;
+  flex-wrap: wrap;
   width: 100%;
 }
 header #headermenu .headermenuitem {
@@ -102,19 +118,43 @@ header #headermenu .headermenuitem:after {
 header #headermenu .headermenuitem:last-child:after {
   content: '';
 }
+@media (max-width: 767px) {
+  header #headermenu .headermenuitem {
+    margin-bottom: 0.25rem;
+  }
+  header #headermenu .headermenuitem:after {
+    display: none;
+  }
+}
 footer {
   display: flex!important;
   padding: 0 2rem;
   justify-content: space-between;
   background: #ad7175;
 }
+@media (max-width: 767px) {
+  footer {
+    padding: 0 1rem;
+    flex-wrap: wrap;
+  }
+}
 footer > a {
   color: white!important;
   padding: 1rem 0 1rem 1rem;
 }
+@media (max-width: 767px) {
+  footer > a {
+    padding: 1rem 0;
+  }
+}
 footer .footermenu {
   display: flex!important;
   justify-content: left;
+}
+@media (max-width: 767px) {
+  footer .footermenu {
+    flex-wrap: wrap;
+  }
 }
 footer .footermenu a {
   color: white!important;
@@ -122,7 +162,11 @@ footer .footermenu a {
 }
 @media (max-width: 767px) {
   footer .footermenu a {
-    padding: 1rem 0.5rem;
+    padding: 0.25rem 0.5rem 0.25rem 0 ;
+    line-height: 1.2rem;
+  }
+  footer .footermenu a:after {
+    display: none;
   }
 }
 footer .footermenu a:after {
@@ -148,9 +192,26 @@ footer .footermenu a:last-child:after {
   margin-bottom: 0.5rem;
   background: url('/listicon.png') left 0.3rem no-repeat;
 }
-#kontakt .embed {
+.sub.kontakt h1 {
+  margin-bottom: 4rem;
+}
+.sub.kontakt .embed {
   height: 100%;
   width: 100%;
+}
+.sub.kontakt .content {
+  padding: 0 4rem 2rem 4rem!important;
+}
+.sub.kontakt .txt {
+  padding: 2rem 0;
+}
+.sub.kontakt .kdata {
+  padding: 0;
+}
+@media (max-width: 767px) {
+  .sub.kontakt #cont {
+    padding: 1rem!important;
+  }
 }
 .sub.services {
   padding-bottom: 2rem;
@@ -162,6 +223,11 @@ footer .footermenu a:last-child:after {
   display: inline-block;
   background-size: contain;
   font-size: 8rem;
+}
+@media (max-width: 767px) {
+  .sub.services h1 {
+    font-size: 4rem;
+  }
 }
 .sub.services .slogan {
   background: #f6f6f6;
@@ -238,11 +304,27 @@ footer .footermenu a:last-child:after {
 #about {
   padding-bottom: 2rem;
 }
+#about .imgcol {
+  min-height: 150px;
+}
 #about h1 {
   text-align: left;
   font-size: 4rem;
   display: inline-block;
   background-size: contain;
+}
+@media (max-width: 767px) {
+  #about h1 {
+    margin-top: 0!important;
+  }
+}
+#about #oben.ui.container {
+  margin: 0!important;
+}
+@media (max-width: 767px) {
+  #about #oben.ui.container .ui.grid .ui.column {
+    padding: 1rem!important;
+  }
 }
 #about .content_rechts {
   padding-top: 2rem;
@@ -309,6 +391,12 @@ footer .footermenu a:last-child:after {
   right: -100px;
   top: 20vh;
 }
+@media (max-width: 767px) {
+  #home #teaser_oben img {
+    right: -60px;
+    top: 0;
+  }
+}
 #home #intro {
   padding: 3rem 0;
   color: white;
@@ -326,11 +414,22 @@ footer .footermenu a:last-child:after {
   padding: 1rem 3rem;
   border-radius: 0.75rem;
 }
+@media (max-width: 767px) {
+  #home #intro {
+    font-size: 1.0rem;
+    line-height: 1.5rem;
+  }
+}
 #home #kontakt {
   padding-bottom: 2rem;
 }
 #home #kontakt .ui.grid {
   margin-top: 2rem;
+}
+@media (max-width: 767px) {
+  #home #kontakt .kdata {
+    padding: 0;
+  }
 }
 #home #services {
   margin-bottom: 2rem;
