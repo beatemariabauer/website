@@ -22,11 +22,12 @@
       </div>
     </div>
   </div>
+  {{with .Params.zielgruppen}} {{if gt (.titel | countrunes) 0}}
   <div class="ui container fluid zk">
     <div class="ui container ">
-      <h2>{{.Params.zielgruppen.titel}}</h2>
+      <h2>{{.titel}}</h2>
       <div class="ui three column stackable doubling grid">
-        {{range .Params.zielgruppen.zielgruppe}}
+        {{range .zielgruppe}}
         <div class="ui column">
           <div class="zkc" style="background:url({{partial "imgUrl" (dict "img" .bild "params" "c_scale,f_auto,w_400" )}}) center center no-repeat #f6f6f6; background-size:cover">
             <h5>{{.titel | safeHTML}}</h5>
@@ -36,5 +37,18 @@
       </div>
     </div>
   </div>
+  {{end}} {{end}} {{with .Params.conten_unten}} {{if gt (.content | countrunes) 0}}
+  <div class="ui container subbereiche">
+    <h2>{{.titel}}</h2>
+    <div class="ui stackable grid">
+      <div class="ui twelve wide column">
+        {{.content | safeHTML}}
+      </div>
+      <div class="ui four wide column">
+        <a class="kbutton" href="{{ .link | relURL}}">{{.linkbeschriftung}}</a>
+      </div>
+    </div>
+  </div>
+  {{end}} {{end}}
 </div>
 {{end}}

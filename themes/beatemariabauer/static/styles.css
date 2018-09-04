@@ -148,6 +148,9 @@ footer .footermenu a:last-child:after {
   margin-bottom: 0.5rem;
   background: url('/listicon.png') left 0.3rem no-repeat;
 }
+.sub.services {
+  padding-bottom: 2rem;
+}
 .sub.services h1 {
   margin: 0!important;
   padding: 8vh 3rem 2rem 3rem;
@@ -167,6 +170,12 @@ footer .footermenu a:last-child:after {
 }
 .sub.services .slogan .container p {
   line-height: 2rem;
+}
+.sub.services .kbutton {
+  color: white;
+  background: rgba(173, 113, 117, 0.77);
+  padding: 1rem 2rem;
+  border-radius: 0.5rem;
 }
 .sub.services .zk {
   background: #f6f6f6;
@@ -215,6 +224,12 @@ footer .footermenu a:last-child:after {
   font-weight: bold;
   color: #ad7175;
   font-size: 1.1rem;
+}
+.sub.services #icontxt .content_rechts ul {
+  padding: 0;
+}
+.sub.services #icontxt .content_rechts ul li {
+  margin-left: 1rem;
 }
 #about {
   padding-bottom: 2rem;
