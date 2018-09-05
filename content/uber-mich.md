@@ -9,7 +9,7 @@ title = "Über mich"
 weight = 1
 [zitat]
 content = "<p>„Ich will die Essenz. Meine Seele ist in Eile.“</p>"
-hintergrundbild = "/uploads/2018/08/11/Fotolia_47657161_M.jpg"
+hintergrundbild = "/uploads/2018/08/13/strand.jpg"
 quelle = "freie Übersetzung des Dichters Mario de Andrale"
 [[bereiche]]
 content = "<p>Fagen Sie mich einfach nach den nächsten Terminen oder vereinbaren Sie einen individuellen Termin in Ihrer Einrichtung:</p><ul><li><p>Mediation – Türöffner für eine neue Unternehmenskultur</p></li><li><p>Mitarbeiterfluktuation und hohen Krankenstand durch </p></li><li><p>erfolgenreiches Konfliktmanagement begegnen</p></li><li><p>Was ist Mediation? Kleine Friedensarbeit im privaten Bereich mit großer Wirkung</p></li></ul>"
