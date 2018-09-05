@@ -9,7 +9,7 @@ seo_description = ""
 title = "Mediation"
 [conten_unten]
 content = "<p>Fragen Sie mich einfach nach den nächsten Terminen oder vereinbaren  Sie einen individuellen Termin in Ihrer Einrichtung:</p><ul><li><p>Mediation – Türöffner für eine neue Unternehmenskultur</p></li><li><p>Mitarbeiterfluktuation und hohen Krankenstand durch  erfolgreiches Konfliktmanagement begegnen</p></li><li><p>Ein bisschen Friedensarbeit praktizieren…  in Zeiten, wo das Geld wichtiger scheint als der Mensch</p></li><li><p>Was ist Mediation? Kleine Friedensarbeit im privaten Bereich mit großer Wirkung</p></li></ul>"
-link = "kontakt.html"
+link = "kontakt.md"
 linkbeschriftung = "Termin anfragen"
 linkbutton_ = true
 titel = "Vorträge & Kurse"
