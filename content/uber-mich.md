@@ -8,7 +8,7 @@ title = "Über mich"
 [menu.main]
 weight = 1
 [zitat]
-content = "<p>„Ich will die Essenz.<br>Meine Seele ist in Eile.“</p>"
+content = "<p>„Ich will die Essenz. Meine Seele ist in Eile.“</p>"
 hintergrundbild = "/uploads/2018/08/11/Fotolia_47657161_M.jpg"
 quelle = "freie Übersetzung des Dichters Mario de Andrale"
 [[bereiche]]
