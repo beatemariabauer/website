@@ -10,7 +10,7 @@ untertitel_header = ""
 weight = 2
 
 +++
-**Beate Maria Bauer**
+**Beate Maria Bauer** 
 
 Matthias-Kraus-Gasse 17  
 93309 Kelheim
