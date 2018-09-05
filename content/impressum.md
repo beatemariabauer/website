@@ -25,4 +25,4 @@ Amtsgericht Kelheim
 
 Das Unternehmen nimmt nicht an Streitbeilegungsverfahren vor einer Verbraucherschlichtungsstelle teil.
 
->     Design / Konzeptelvira.beck | design
+>     Design / Konzept: elvira.beck | design
