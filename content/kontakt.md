@@ -14,9 +14,6 @@ content = "<p><strong>Beate Maria Bauer</strong></p><p>Matthias-Kraus-Gasse 17<b
 icon = "map marker alternate"
 [[kontaktdaten]]
 content = "<p>0 159 06 04 96 92</p>"
-icon = "phone"
-[[kontaktdaten]]
-content = "<p>0 171 - 12 34 56 7</p>"
 icon = "mobile alternate"
 [[kontaktdaten]]
 content = "<p><a href=\"mailto:bmb@beatemariabauer.de\" title=\"\">bmb@beatemariabauer.de</a></p>"
