@@ -45,7 +45,7 @@
         {{.content | safeHTML}}
       </div>
       <div class="ui four wide column">
-        <a class="kbutton" href="{{ .link | relURL}}">{{.linkbeschriftung}}</a>
+        <a class="kbutton" href="/{{ replace .link ".md" "" }}">{{.linkbeschriftung}}</a>
       </div>
     </div>
   </div>

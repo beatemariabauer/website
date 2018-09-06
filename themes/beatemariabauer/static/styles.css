@@ -363,15 +363,28 @@ footer .footermenu a:last-child:after {
   color: white;
   font-style: italic;
 }
+.subpage {
+  padding-bottom: 2rem;
+}
 .kdata {
   margin: 0;
   padding: 0 0 0 4rem;
   columns: 2;
   column-gap: 2rem;
+  -webkit-column-break-inside: avoid;
+  /* Chrome, Safari */
+  page-break-inside: avoid;
+  /* Theoretically FF 20+ */
+  break-inside: avoid-column;
 }
 .kdata li {
   color: rgba(173, 113, 117, 0.77);
   line-height: 1.5rem;
+  -webkit-column-break-inside: avoid;
+  /* Chrome, Safari */
+  page-break-inside: avoid;
+  /* Theoretically FF 20+ */
+  break-inside: avoid-column;
   display: flex;
   justify-content: left;
 }
