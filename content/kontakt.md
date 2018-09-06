@@ -5,12 +5,12 @@ hintergrund = "/uploads/2018/08/13/footer_pic.jpg"
 karte = "https://www.openstreetmap.org/export/embed.html?bbox=11.862530708312988%2C48.91358765320997%2C11.885704994201662%2C48.92564332915256&amp;layer=mapnik&amp;marker=48.919607868464254%2C11.874111481010914"
 karte_platzhalter = "/uploads/2018/08/11/1.jpeg"
 layout = "kontakt"
-seo_description = ""
+seo_description = "Beate Maria Bauer, Beate Maria Bauer  Matthias-Kraus-Gasse 17, 93309 Kelheim, 0 159 06 04 96 92, bmb@beatemariabauer.de"
 title = "Kontakt"
 [menu.main]
 weight = 5
 [[kontaktdaten]]
-content = "<p><strong>Beate Maria Bauer</strong></p><p>Matthias-Kraus-Gasse 17<br>93309 Kelheim</p>"
+content = "<pre><code><strong>Beate Maria Bauer</strong></code></pre><p>Matthias-Kraus-Gasse 17<br>93309 Kelheim</p>"
 icon = "map marker alternate"
 [[kontaktdaten]]
 content = "<p>0 159 06 04 96 92</p>"
