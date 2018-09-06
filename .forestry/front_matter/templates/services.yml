@@ -87,5 +87,5 @@ fields:
   name: seo_description
   label: SEO Description
 pages:
-- content/coaching.md
 - content/mediation.md
+- content/coaching.md

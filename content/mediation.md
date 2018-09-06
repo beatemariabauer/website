@@ -5,7 +5,7 @@ einleitung = ""
 header_bild = "/uploads/2018/08/11/head_unterseiten.jpg"
 intro = "<p><em>Mediaton ist ein Verfahren, das zunehmend bei der Konfiktbearbeitung eingesetzt wird, persönliches Wachstum fördert und zu tragfähigen Lösungen führt.</em></p>"
 layout = "services"
-seo_description = ""
+seo_description = "Mediation - Mediaton ist ein Verfahren, das zunehmend bei der Konfiktbearbeitung eingesetzt wird, persönliches Wachstum fördert und zu tragfähigen Lösungen führt."
 title = "Mediation"
 [conten_unten]
 content = "<p>Fragen Sie mich einfach nach den nächsten Terminen oder vereinbaren  Sie einen individuellen Termin in Ihrer Einrichtung:</p><ul><li><p>Mediation – Türöffner für eine neue Unternehmenskultur</p></li><li><p>Mitarbeiterfluktuation und hohen Krankenstand durch  erfolgreiches Konfliktmanagement begegnen</p></li><li><p>Ein bisschen Friedensarbeit praktizieren…  in Zeiten, wo das Geld wichtiger scheint als der Mensch</p></li><li><p>Was ist Mediation? Kleine Friedensarbeit im privaten Bereich mit großer Wirkung</p></li></ul>"
