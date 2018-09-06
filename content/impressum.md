@@ -10,9 +10,11 @@ untertitel_header = ""
 weight = 2
 
 +++
->     Beate Maria Bauer 
->     Matthias-Kraus-Gasse 17
->     93309 Kelheim
+Beate Maria Bauer 
+
+Matthias-Kraus-Gasse 17
+
+93309 Kelheim
 
 Tel. 0157 5952 5930
 
@@ -25,4 +27,4 @@ Amtsgericht Kelheim
 
 Das Unternehmen nimmt nicht an Streitbeilegungsverfahren vor einer Verbraucherschlichtungsstelle teil.
 
->     Design / Konzept: elvira.beck | design
+Design / Konzept: [elvira.beck | design](http://elvirabeck-design.de)
