@@ -2,6 +2,8 @@ body {
   font-family: 'ITC Franklin Gothic LT W01 Bk', Arial, Helvetica, sans-serif;
   color: #000000;
   background: white;
+  width: 100vw;
+  overflow-x: hidden;
 }
 body *:not(i) {
   font-family: Arial, Helvetica, sans-serif important;
