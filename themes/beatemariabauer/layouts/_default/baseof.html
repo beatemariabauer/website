@@ -40,6 +40,17 @@
         $(this).shape('flip back');
       });
       $('.ui.embed').embed();
+      $('#mobilemenutoggle').click(() => {
+        if ($('#mobilenav #headermenu').hasClass('vis')) {
+          $('#mobilenav #headermenu').removeClass('vis');
+          $('#mobilemenutoggle i').removeClass('chevron up');
+          $('#mobilemenutoggle i').addClass('bars');
+        } else {
+          $('#mobilenav #headermenu').addClass('vis');
+          $('#mobilemenutoggle i').addClass('chevron up');
+          $('#mobilemenutoggle i').removeClass('bars');
+        }
+      });
     });
   </script>
 </body>

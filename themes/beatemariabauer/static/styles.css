@@ -41,8 +41,6 @@ main {
   }
 }
 header {
-  height: 15vh;
-  padding: 0;
   border-bottom: 1px solid #bcbcbc;
   -webkit-box-shadow: 0px 0px 36px 0px #7a7a7a;
   -moz-box-shadow: 0px 0px 36px 0px #7a7a7a;
@@ -55,40 +53,113 @@ header {
   transition-duration: 0.5s;
   transition-timing-function: ease-in-out;
 }
-header > .container {
+header .container {
   position: relative;
   height: 100%;
   display: flex!important;
   justify-content: space-between;
   align-items: center;
 }
-header .logo {
-  height: 15vh;
-  transition-property: all;
-  transition-duration: 0.5s;
-  transition-timing-function: ease-in-out;
-}
-header .logo.scrolled {
-  height: 8vh;
-  transition-property: all;
-  transition-duration: 0.5s;
-  transition-timing-function: ease-in-out;
-}
 @media (max-width: 767px) {
+  header {
+    min-height: 15vh;
+    padding: 0;
+  }
+  header #desktopnav {
+    display: none!important;
+  }
+  header #mobilenav {
+    display: block!important;
+  }
+  header #mobilenav > .container {
+    position: relative;
+    height: 100%;
+    display: flex!important;
+    justify-content: space-between;
+    align-items: center;
+  }
+  header #mobilenav > .container i {
+    color: #ad7175 !important;
+    font-size: 1.5rem!important;
+    line-height: 1.5rem!important;
+  }
+  header #mobilenav > .container .ui.basic.button {
+    border: none!important;
+    box-shadow: none!important;
+  }
+  header #mobilenav #headermenu {
+    max-height: 0px;
+    margin-bottom: 0;
+    overflow: hidden;
+    transition-property: all;
+    transition-duration: 0.5s;
+    transition-timing-function: ease-in-out;
+    justify-content: center;
+  }
+  header #mobilenav #headermenu.vis {
+    margin-bottom: 1rem;
+    max-height: 100px;
+    transition-property: all;
+    transition-duration: 0.5s;
+    transition-timing-function: ease-in-out;
+  }
   header .logo {
-    max-height: 60px;
+    height: 17vh;
+    margin-bottom: -2vh;
+    transition-property: all;
+    transition-duration: 0.5s;
+    transition-timing-function: ease-in-out;
+  }
+  header .logo.scrolled {
+    height: 10vh;
+    transition-property: all;
+    transition-duration: 0.5s;
+    transition-timing-function: ease-in-out;
+  }
+  header.scrolled {
+    min-height: 8vh;
+    -webkit-box-shadow: 0px 0px 20px 0px #7a7a7a;
+    -moz-box-shadow: 0px 0px 20px 0px #7a7a7a;
+    box-shadow: 0px 0px 20px 0px #7a7a7a;
+    transition-property: all;
+    transition-duration: 0.5s;
+    transition-timing-function: ease-in-out;
   }
 }
-header.scrolled {
-  height: 8vh;
-  -webkit-box-shadow: 0px 0px 20px 0px #7a7a7a;
-  -moz-box-shadow: 0px 0px 20px 0px #7a7a7a;
-  box-shadow: 0px 0px 20px 0px #7a7a7a;
-  transition-property: all;
-  transition-duration: 0.5s;
-  transition-timing-function: ease-in-out;
+@media (min-width: 767px) {
+  header {
+    height: 15vh;
+    padding: 0;
+  }
+  header .logo {
+    height: 15vh;
+    transition-property: all;
+    transition-duration: 0.5s;
+    transition-timing-function: ease-in-out;
+  }
+  header .logo.scrolled {
+    height: 8vh;
+    transition-property: all;
+    transition-duration: 0.5s;
+    transition-timing-function: ease-in-out;
+  }
+  header.scrolled {
+    height: 8vh;
+    -webkit-box-shadow: 0px 0px 20px 0px #7a7a7a;
+    -moz-box-shadow: 0px 0px 20px 0px #7a7a7a;
+    box-shadow: 0px 0px 20px 0px #7a7a7a;
+    transition-property: all;
+    transition-duration: 0.5s;
+    transition-timing-function: ease-in-out;
+  }
+  header #desktopnav {
+    display: block!important;
+  }
+  header #mobilenav {
+    display: none!important;
+  }
 }
-@media (max-width: 767px) {
+@media (min-width: 767px) and (max-width: 767px) {
   header.scrolled {
     height: 10vh;
   }
