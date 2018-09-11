@@ -10,7 +10,7 @@ title = "Kontakt"
 [menu.main]
 weight = 5
 [[kontaktdaten]]
-content = "<pre><code><strong>Beate Maria Bauer</strong></code></pre><p>Matthias-Kraus-Gasse 17<br>93309 Kelheim</p>"
+content = "<p></p><p>Beate Maria Bauer<br>Matthias-Kraus-Gasse 17<br>93309 Kelheim</p>"
 icon = "map marker alternate"
 [[kontaktdaten]]
 content = "<p>0 159 06 04 96 92</p>"
