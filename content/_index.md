@@ -6,7 +6,7 @@ seo_description: Beate Maria Bauer -  Ich begleite Menschen, Teams und Unternehm
   die Zukunft neu und selbst gestalten möchten. Sehr gerne referiere hierzu gerne
   über die Sinnhaftigkeit eines erfolgreichen Konfliktmanagements im gesamten ostbayerischen
   Raum. Ich unterrichte Tanz im ostbayerischen Raum (Landshut, Regensburg, Passau,
-  Kelheim, Ingolstadt).
+  Kelheim, Ingolstadt). Meditation des Tanzes, Training und Mediation
 teaser_oben:
   bild: "/uploads/2018/08/11/053cut.jpg"
   logo: "/uploads/2018/08/11/logo.png"
