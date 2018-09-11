@@ -483,8 +483,7 @@ footer .footermenu a:last-child:after {
 }
 @media (max-width: 767px) {
   #home #teaser_oben img {
-    right: -60px;
-    top: 0;
+    display: none;
   }
 }
 #home #intro {
