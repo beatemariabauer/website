@@ -12,7 +12,7 @@ content = "<p>„Ich will die Essenz. Meine Seele ist in Eile.“</p>"
 hintergrundbild = "/uploads/2018/08/13/strand.jpg"
 quelle = "freie Übersetzung des Dichters Mario de Andrale"
 [[bereiche]]
-content = "<p>Fagen Sie mich einfach nach den nächsten Terminen oder vereinbaren Sie einen individuellen Termin in Ihrer Einrichtung:</p><ul><li><p>Mediation – Türöffner für eine neue Unternehmenskultur</p></li><li><p>Mitarbeiterfluktuation und hohen Krankenstand durch </p></li><li><p>erfolgenreiches Konfliktmanagement begegnen</p></li><li><p>Was ist Mediation? Kleine Friedensarbeit im privaten Bereich mit großer Wirkung</p></li></ul>"
+content = "<p>Fagen Sie mich einfach nach den nächsten Terminen oder vereinbaren Sie einen individuellen Termin in Ihrer Einrichtung:</p><ul><li><p>Mediation – Türöffner für eine neue Unternehmenskultur</p></li><li><p>Mitarbeiterfluktuation und hohen Krankenstand durch erfolgenreiches Konfliktmanagement begegnen</p></li><li><p>Was ist Mediation? Kleine Friedensarbeit im privaten Bereich mit großer Wirkung</p></li></ul>"
 titel = "Vorträge & Kurse"
 [[bereiche]]
 content = "<ul><li><p>Ganzheitliche Gesundheitstrainerin</p></li><li><p>Mediatorin</p></li><li><p>Konfiktcoach</p></li><li><p>NLP Master</p></li><li><p>Wirtschafsmediatorin (in Supervision)</p></li><li><p>Dozentin für Meditaton des Tanzes</p></li></ul>"
