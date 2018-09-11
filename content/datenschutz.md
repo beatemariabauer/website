@@ -79,7 +79,7 @@ Matthias-Kraus-Gasse 17
 
 Deutschland
 
-Tel.: 0157 5952 5930
+Tel.: 0 159 06 04 96 92
 
 E-Mail: bmb@beatemariabauer.de
 
