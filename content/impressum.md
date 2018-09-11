@@ -10,13 +10,13 @@ untertitel_header = ""
 weight = 2
 
 +++
-Beate Maria Bauer  
+Beate Maria Bauer
 
 Matthias-Kraus-Gasse 17
 
 93309 Kelheim
 
-Tel. 0157 5952 5930
+Tel. 0 159 06 04 96 92
 
 [bmb@beatemariabauer.de  
 ](mailto:bmb@beatemariabauer.de)www.beatemariabauer.de
