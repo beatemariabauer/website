@@ -13,6 +13,7 @@
   <link rel="shortcut icon" href="{{ $.Site.BaseURL }}/favicon.png" type="image/x-icon"> {{ partial "meta.html" . }}
   <link type="text/css" rel="stylesheet" href="//fast.fonts.net/cssapi/49084558-7f89-4650-abc9-d0902b866438.css" />
   <script type="text/javascript" src="{{ $.Site.BaseURL }}/lib/jquery.min.js"></script>
+  <script src='https://www.google.com/recaptcha/api.js'></script>
 </head>
 
 <body>
@@ -51,6 +52,8 @@
           $('#mobilemenutoggle i').removeClass('bars');
         }
       });
+      // https://s3.eu-central-1.amazonaws.com/b-coding.com-cmsconfig/mail.json
+
     });
   </script>
 </body>
