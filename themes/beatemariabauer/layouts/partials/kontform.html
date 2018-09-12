@@ -1,17 +1,23 @@
 <div class="kontform">
-  <form class="ui form" id="kform">
+  <script type="text/javascript">
+    function recaptcha_callback() {
+      $('#kformbutton').prop("disabled", false).removeClass('disabled');
+    }
+  </script>
+  <form class="ui form" id="kform" action="https://formspree.io/bmb@beatemariabauer.de" method="POST">
     <div class="two fields">
       <div class="field">
-        <input type="text" name="name" placeholder="Name Vorname">
+        <input type="text" id="inputname" name="name" placeholder="Name Vorname">
       </div>
       <div class="field">
-        <input type="text" name="email" placeholder="Email">
+        <input type="text" id="inputemail" name="email" placeholder="Email">
       </div>
     </div>
     <div class="field">
-      <textarea placeholder="Ihre Nachricht"></textarea>
+      <textarea id="inputmessage" name="message" placeholder="Ihre Nachricht"></textarea>
     </div>
-    <script src='https://www.google.com/recaptcha/api.js'></script>
-    <button class="ui button" type="submit">Anfrage senden</button>
+    <div class="g-recaptcha" data-callback="recaptcha_callback" data-sitekey="6LfDyG8UAAAAAMMCx0N8m617qY_ZRCum9jM2r96f"></div>
+    <button id="kformbutton" class="ui button disabled" type="submit">Anfrage senden</button>
+    <div class="ui error message"></div>
   </form>
 </div>

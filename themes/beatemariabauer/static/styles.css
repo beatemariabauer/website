@@ -471,6 +471,9 @@ footer .footermenu a:last-child:after {
 .kdata li i {
   margin-right: 1rem;
 }
+#kform .ui.button {
+  margin-top: 1rem!important;
+}
 #home #teaser_oben {
   position: relative;
   height: 85vh;
