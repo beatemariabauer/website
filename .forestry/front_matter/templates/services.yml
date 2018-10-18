@@ -87,6 +87,6 @@ fields:
   name: seo_description
   label: SEO Description
 pages:
-- content/tanz.md
 - content/mediation.md
+- content/tanz.md
 - content/coaching.md
