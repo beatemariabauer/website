@@ -8,11 +8,11 @@ layout = "services"
 seo_description = ""
 title = "Tanz"
 [conten_unten]
-content = ""
-link = ""
-linkbeschriftung = ""
-linkbutton_ = false
-titel = ""
+content = "<p>Hier stehen die nächsten Termine oder vereinbaren Sie ein individuelles Tanzseminar in ihrer Stadt:</p><ul><li><p>Jahresprogramm 2019</p></li><li><p>Tanztag 25. November 2018 in Kelheim</p></li><li><p>Tanzabende in Kelheim - montags</p></li><li><p>Tanznachmittage im Frühjahr 2019 in Kelheim</p></li><li><p>Tanzwochenende 24.-26. Mai 2019 im Haus Werdenfels  bei Nittendorf</p></li><li><p>Tanztage im 19.-22. September 2019 in Passau</p></li><li><p>Tanzwochenende im 29.-1. November/Dezember in Regenstauf</p></li></ul>"
+link = "kontakt.md"
+linkbeschriftung = "Termin anfragen"
+linkbutton_ = true
+titel = "Kurse"
 [icon_text_links]
 content = "<p>Tanz</p>"
 icon = "/uploads/2018/08/11/icon_tanz.png"
