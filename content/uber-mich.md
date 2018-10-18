@@ -16,7 +16,7 @@ content = "<p>Fagen Sie mich einfach nach den nächsten Terminen oder vereinbare
 <a href="https://beatemariabauer.de/tanz/">Seminare für Tanz</a></p></li></ul>"
 titel = "Vorträge & Kurse"
 [[bereiche]]
-content = "<ul><br><li><p>Ganzheitliche Gesundheitstrainerin</p></li><li><p>Mediatorin</p></li><li><p>Konfiktcoach</p></li><li><p>NLP Master</p></li><li><p>Wirtschafsmediatorin (in Supervision)</p></li><li><p>Dozentin für Meditaton des Tanzes</p></li></ul>"
+content = "<ul><br><br><li><p>Ganzheitliche Gesundheitstrainerin</p></li><li><p>Mediatorin</p></li><li><p>Konfiktcoach</p></li><li><p>NLP Master</p></li><li><p>Wirtschafsmediatorin (in Supervision)</p></li><li><p>Dozentin für Meditaton des Tanzes</p></li></ul>"
 titel = "Kompetenzen"
 
 +++
