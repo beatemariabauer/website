@@ -1,9 +1,9 @@
 +++
-content_rechts = "<p>Das Finden der besten Lösung für Konfliktparteien: Als Mediatorin bin ich keine Richterin, die ein Urteil fällt. Ich bin allparteilich, beiden Seiten zugewandt und setze mich gleichermaßen für alle Beteiligten ein.</p><p>Ich unterstütze Sie dabei, den Blick in die Zukunft zu richten, so dass aus verschiedenen Welten nach und nach ein tragfähiges Ziel entsteht, mit dem Sie gut leben können. Nur Sie wissen, was gut für sie ist!</p><p><strong>Was Sie mitbringen sollten: Offenheit und Wagemut.</strong></p><p><strong>Mediation findet ihren Einsatz:</strong></p><ul><li><p>bei Scheidung/Trennungen und Familienangelegenheiten</p></li><li><p>bei Konflikten zur Steuerung der Unternehmensnachfolge und/oder Erbschaftsstreitigkeiten</p></li><li><p>in der Hospizarbeit in Familien </p></li></ul>"
+content_rechts = "<p>Mediation bedeutet das Finden der besten Lösung für Konfliktparteien: Als Mediatorin bin ich keine Richterin, die ein Urteil fällt. Ich bin allparteilich, beiden Seiten zugewandt und setze mich gleichermaßen für alle Beteiligten ein.</p><p>Ich unterstütze Sie dabei, den Blick in die Zukunft zu richten, so dass aus verschiedenen Welten nach und nach ein tragfähiges Ziel entsteht, mit dem Sie gut leben können. Nur Sie wissen, was gut für Sie ist!</p><p>Was Sie mitbringen sollten: Offenheit und Wagemut.</p><p><strong>Mediation findet ihren Einsatz:</strong></p><ul><li><p>bei Scheidung/Trennungen und Familienangelegenheiten</p></li><li><p>bei Konflikten zur Steuerung der Unternehmensnachfolge und/oder Erbschaftsstreitigkeiten</p></li><li><p>in der Hospizarbeit</p></li><li><p>in Teams und Unternehmen</p></li></ul>"
 date = "2018-08-11T11:32:57+02:00"
 einleitung = ""
 header_bild = "/uploads/2018/08/11/head_unterseiten.jpg"
-intro = "<p><em>Mediaton ist ein Verfahren, das zunehmend bei der Konfiktbearbeitung eingesetzt wird, persönliches Wachstum fördert und zu tragfähigen Lösungen führt.</em></p>"
+intro = "<p><em>Mediation ist ein Verfahren, das zunehmend bei der Konfliktbearbeitung eingesetzt wird, persönliches Wachstum fördert und zu tragfähigen Lösungen führt.</em></p>"
 layout = "services"
 seo_description = "Mediation - Mediaton ist ein Verfahren, das zunehmend bei der Konfiktbearbeitung eingesetzt wird, persönliches Wachstum fördert und zu tragfähigen Lösungen führt."
 title = "Mediation"
