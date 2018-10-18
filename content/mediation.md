@@ -8,7 +8,7 @@ layout = "services"
 seo_description = "Mediation - Mediaton ist ein Verfahren, das zunehmend bei der Konfiktbearbeitung eingesetzt wird, persönliches Wachstum fördert und zu tragfähigen Lösungen führt."
 title = "Mediation"
 [conten_unten]
-content = "<p>Fragen Sie mich einfach nach den nächsten Terminen oder vereinbaren Sie einen individuellen Termin in Ihrer Einrichtung:</p><ul><li><p>Mediation – Türöffner für eine neue Unternehmenskultur</p></li><li><p>Mitarbeiterfluktuation und hohen Krankenstand durch erfolgreiches Konfliktmanagement begegnen</p></li><li><p>Was ist Mediation? Kleine Friedensarbeit im privaten Bereich mit großer Wirkung</p></li></ul>"
+content = "<p>Fragen Sie mich einfach nach den nächsten Terminen oder vereinbaren Sie einen individuellen Termin in Ihrer Einrichtung:</p><ul><li><p>Mediation – Türöffner für eine neue Unternehmenskultur</p></li><li><p>Konflikte erfolgreich managen</p></li><li><p>Was ist Mediation? Grenzen und Möglichkeiten</p></li><li><p>Zielführende Kommunikation in herausfordernden Situationen</p></li><li><p>Umgang mit Veränderungen in Teams</p></li></ul>"
 link = "kontakt.md"
 linkbeschriftung = "Termin anfragen"
 linkbutton_ = true
