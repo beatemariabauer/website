@@ -1,7 +1,6 @@
 ---
 label: Services
 hide_body: true
-is_partial: false
 fields:
 - type: file
   name: header_bild
@@ -87,6 +86,6 @@ fields:
   name: seo_description
   label: SEO Description
 pages:
+- content/coaching.md
 - content/tanz.md
 - content/mediation.md
-- content/coaching.md

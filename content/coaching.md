@@ -8,11 +8,11 @@ layout = "services"
 seo_description = "Coaching - Für Menschen mit dem Wunsch nach Veränderung während oder nach neuer Lebensphasen (nach Scheidung, nach Trauerphase, nach Krankheit)"
 title = "Coaching"
 [conten_unten]
-content = ""
+content = "<ul><li><p><strong>Coaching bei beruflichen Veränderungen: Wie geht es weiter?</strong></p><p>Berufliche Veränderungen kommen manchmal gewünscht, manchmal überraschend oder auch ungelegen. Wie gehe ich damit um, was mache ich daraus?</p><p></p></li><li><p><strong>Coaching für angehende Führungskräfte in Arztpraxen, bei Pflegediensten, in Kindertagesstätten</strong></p><p>Hineinwachsen in die Führungsrolle, Führen als Vorbild, richtig delegieren, den eigenen Führungsstil erkennen und erweitern, typgerecht auf Mitarbeiter eingehen, konstruktives Feedback geben, aus Kolleginnen werden Mitarbeiterinnen…<br>Themen werden nach Absprache näher definiert und umgesetzt.<br></p></li><li><p><strong>Mutter, Hausfrau &amp; Karriere, geht das??</strong></p><p>Hineinwachsen in einen neuen Familienalltag, Delegieren von Aufgaben, die verschiedenen Rollen erkennen und voneinander abgrenzen, Umgang mit den eigenen und fremden Erwartungen. <br></p></li><li><p><strong>Coaching für Schülerinnen und Schüler: \t</strong></p><p>Mittelschule ab 8.Klasse, Realschule ab 9.Klasse, Gymnasium ab 10.Klasse<br>Berufsschule </p><p>Wo liegen meine Stärken und Talente? Was macht mir Freude? Was möchte ich erreichen? Welche Erwartungen haben meine Eltern? Wie wichtig ist mir Geld und Prestige? Und alle anderen Themen, die dir wichtig sind.<br></p></li><li><p><strong>Coaching und/oder psycholog. Beratung bei Beziehungskrisen, Trauerfall oder Pflege in der Familie<br></strong></p></li><li><p><strong>Spezielles Persönlichkeitstraining bei längerer Arbeitslosigkeit, nach Krankheit und Reha</strong></p></li></ul><h3>Themenpakete:</h3><ul><li><p><strong>„Veränderung begleiten“:\t</strong><br>Zum Beispiel ein verlängertes Wochenende Donnerstag bis Sonntag in meiner Ferienwohnung, 3-4 Termine in dieser Zeit und zwischendurch Wandern, Radln oder Thermenbesuche.  <br>Selbstversorgung in der Wohnung. Wohnung ansehen. Termin und Preis erfragen. <br>\t</p></li><li><p><strong>„Schülertraining“:</strong>\t<br>4-5 Monate Begleitung, meist alle zwei Wochen ein Doppeltermin.</p></li></ul>"
 link = ""
 linkbeschriftung = ""
 linkbutton_ = false
-titel = ""
+titel = "Meine Angebote für Sie:"
 [icon_text_links]
 content = "<p>Coaching</p>"
 icon = "/uploads/2018/08/11/icon_coaching.png"
