@@ -6,7 +6,7 @@ layout = "about"
 seo_description = "Beate Maria Bauer - Für Menschen mit dem Wunsch nach Veränderung während oder nach neuer Lebensphasen(nach Scheidung, nach Trauerphase, nach Krankheit)"
 title = "Über mich"
 [menu.main]
-weight = 1
+weight = 2
 [zitat]
 content = "<p>„Ich will die Essenz. Meine Seele ist in Eile.“</p>"
 hintergrundbild = "/uploads/2018/08/13/strand.jpg"
