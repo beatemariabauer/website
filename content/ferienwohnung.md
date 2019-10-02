@@ -13,8 +13,8 @@ titel = ""
 content = "<p>Auszeit</p>"
 icon = "/uploads/2019/10/02/schlafen_neu.jpg"
 [menu.main]
-name = "Auszeit"
-weight = 6
+name = "Wohnung"
+weight = 7
 [zielgruppen]
 titel = "Bilder"
 [[zielgruppen.zielgruppe]]
