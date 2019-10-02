@@ -11,7 +11,7 @@ linkbutton_ = false
 titel = ""
 [icon_text_links]
 content = "<p>Auszeit</p>"
-icon = ""
+icon = "/uploads/2019/10/02/schlafen_neu.jpg"
 [menu.main]
 name = "Auszeit"
 weight = 6
