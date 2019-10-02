@@ -1,6 +1,6 @@
 ---
 title: Home
-date: 2018-07-06 18:19:54 +0000
+date: '2018-07-06T18:19:54.000+00:00'
 type: page
 seo_description: Beate Maria Bauer -  Ich begleite Menschen, Teams und Unternehmen,
   die Zukunft neu und selbst gestalten möchten. Sehr gerne referiere hierzu gerne
@@ -12,9 +12,10 @@ teaser_oben:
   logo: "/uploads/2018/08/11/logo.png"
 intro:
   content: "<p><strong>Am Wendepunkt angelangt?</strong> Ich begleite Menschen, Teams
-    und Unternehmen, die ihre Zukunft neu und selbst gestalten möchten. Sehr gerne referiere
-    hierzu gerne über die Sinnhaftigkeit eines erfolgreichen Konfliktmanagements und unterrichte Tanz im ostbayerischen Raum (Landshut,
-    Regensburg, Passau, Kelheim, Ingolstadt).</p>"
+    und Unternehmen, die ihre Zukunft neu und selbst gestalten möchten. Sehr gerne
+    referiere hierzu gerne über die Sinnhaftigkeit eines erfolgreichen Konfliktmanagements
+    und unterrichte Tanz im ostbayerischen Raum (Landshut, Regensburg, Passau, Kelheim,
+    Ingolstadt).</p>"
   hintergrund: "/uploads/2018/08/13/strand.jpg"
   link_bescchriftung: ''
   link: uber-mich.md
@@ -52,7 +53,8 @@ mediation_und_training:
     content: "<p><em>Tanz</em></p>"
     hintergrundfarbe: rose
     icon_ruckseite: "/uploads/2018/08/11/icon_tanz.png"
-    content_ruckseite: "<p><em>Tanz</em></p><p>Spielraum für kreative Lösungen und Ideen <br> Resilienz fördern</p>"
+    content_ruckseite: "<p><em>Tanz</em></p><p>Spielraum für kreative Lösungen und
+      Ideen <br> Resilienz fördern</p>"
     hintergrundfarbe_ruckseite: rose dunkel
   - content: "<p>eine gemeinsame <br>LANDKARTE <br>zeichnen</p>"
     hintergrundfarbe: grau
@@ -71,6 +73,6 @@ kontakt:
   titel: Kontakt
 menu:
   main:
-    weight: 1
+    weight: 2
 
 ---

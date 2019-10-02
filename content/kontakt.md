@@ -8,7 +8,7 @@ layout = "kontakt"
 seo_description = "Beate Maria Bauer, Beate Maria Bauer  Matthias-Kraus-Gasse 17, 93309 Kelheim, 0 159 06 04 96 92, bmb@beatemariabauer.de"
 title = "Kontakt"
 [menu.main]
-weight = 5
+weight = 7
 [[kontaktdaten]]
 content = "<p></p><p>Beate Maria Bauer<br>Matthias-Kraus-Gasse 17<br>93309 Kelheim</p>"
 icon = "map marker alternate"
