@@ -18,6 +18,9 @@ titel = ""
 bild = "/uploads/2019/10/02/schlafen_neu.jpg"
 titel = "<p>Schlafen</p>"
 [[zielgruppen.zielgruppe]]
+bild = "/uploads/2019/10/02/kueche_low.jpg"
+titel = "<p>Küche</p>"
+[[zielgruppen.zielgruppe]]
 bild = "/uploads/2019/10/02/Wohnzimmer_low.jpg"
 titel = "<p>Wohnen</p>"
 
