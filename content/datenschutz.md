@@ -73,9 +73,9 @@ Verantwortlicher im Sinne der Datenschutz-Grundverordnung, sonstiger in den Mitg
 
 Beate Maria Bauer
 
-Matthias-Kraus-Gasse 17
+Kelheimerstraße 50
 
-93309 Kelheim
+93333 Hienheim - Neustadt an der Donau
 
 Deutschland
 
