@@ -12,9 +12,9 @@ weight = 2
 +++
 Beate Maria Bauer
 
-Matthias-Kraus-Gasse 17
+Kelheimerstraße 50
 
-93309 Kelheim
+93333 Hienheim - Neustadt an der Donau
 
 Tel. 0 159 06 04 96 92
 
