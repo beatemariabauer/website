@@ -64,8 +64,7 @@ kontakt:
   hintergrundbild: "/uploads/2018/08/13/footer_pic.jpg"
   kontaktdaten:
   - icon: map marker alternate
-    content: "<p><strong>Beate Maria Bauer</strong></p><p>Matthias-Kraus-Gasse 17<br>93309
-      Kelheim</p>"
+    content: "<p><strong>Beate Maria Bauer</strong></p><p>Kelheimerstraße 50<br>93333 Hienheim - Neustadt an der Donau</p>"
   - icon: mobile alternate
     content: "<p>0 159 06 04 96 92</p>"
   - icon: envelope outline
