@@ -36,7 +36,7 @@ mediation_und_training:
       aus dem Weg räumen <br> Blickwinkel ändern</p>"
   - content: "<p>ZEIT<br>für neue<br>IMPULSE</p>"
     hintergrundfarbe: grau
-    content_ruckseite: "<p><strong>RUHE</strong></p><p><strong>&amp;</strong></p><p><strong>BEWEGUNG</strong></p>"
+    content_ruckseite: "<p><strong>RUHE</strong></p><p><strong>&amp;</strong></p><p><strong>STILLE</strong></p>"
     hintergrundfarbe_ruckseite: grau
     icon: ''
     icon_ruckseite: ''
