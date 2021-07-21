@@ -54,11 +54,10 @@ mediation_und_training:
     icon: ''
     icon_ruckseite: ''
   - icon: "/uploads/2018/08/11/icon_tanz.png"
-    content: "<p><em>Tanz</em></p>"
+    content: "<p><em>Gegenwart</em></p>"
     hintergrundfarbe: rose
     icon_ruckseite: "/uploads/2018/08/11/icon_tanz.png"
-    content_ruckseite: "<p><em>Tanz</em></p><p>Spielraum für kreative Lösungen und
-      Ideen <br> Resilienz fördern</p>"
+    content_ruckseite: "<p><em>Gegenwart</em></p><p>Lebens- und Abschiedsräume</p>"
     hintergrundfarbe_ruckseite: rose dunkel
   - content: "<p>eine gemeinsame <br>LANDKARTE <br>zeichnen</p>"
     hintergrundfarbe: grau
