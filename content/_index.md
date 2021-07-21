@@ -11,11 +11,11 @@ teaser_oben:
   bild: "/uploads/2018/08/11/053cut.jpg"
   logo: "/uploads/2018/08/11/logo.png"
 intro:
-  content: "<p><strong>Am Wendepunkt angelangt?</strong> Ich begleite Menschen, Teams
-    und Unternehmen, die ihre Zukunft neu und selbst gestalten möchten. Sehr gerne
-    referiere hierzu gerne über die Sinnhaftigkeit eines erfolgreichen Konfliktmanagements
-    und unterrichte Tanz im ostbayerischen Raum (Landshut, Regensburg, Passau, Kelheim,
-    Ingolstadt).</p>"
+  content: "<p><strong>Begegnung in Würde gestalten - auf dem Weg zum WESEN-tlichen!
+    </strong><br>Ich begleite Menschen, Teams und Unternehmen, die ihre Zukunft neu
+    und selbst gestalten möchten. Sehr gerne referiere hierzu gerne über die Sinnhaftigkeit
+    eines erfolgreichen Konfliktmanagements und unterrichte Tanz im ostbayerischen
+    Raum (Landshut, Regensburg, Passau, Kelheim, Ingolstadt).</p>"
   hintergrund: "/uploads/2018/08/13/strand.jpg"
   link_bescchriftung: ''
   link: uber-mich.md
@@ -38,6 +38,8 @@ mediation_und_training:
     hintergrundfarbe: grau
     content_ruckseite: "<p><strong>RUHE</strong></p><p><strong>&amp;</strong></p><p><strong>BEWEGUNG</strong></p>"
     hintergrundfarbe_ruckseite: grau
+    icon: ''
+    icon_ruckseite: ''
   - icon: "/uploads/2018/08/11/icon_mediation.png"
     content: "<p><em>Mediation</em></p>"
     hintergrundfarbe: rose hell
@@ -49,6 +51,8 @@ mediation_und_training:
     hintergrundfarbe: grau
     content_ruckseite: "<p><strong>BEGLEITUNG</strong></p>"
     hintergrundfarbe_ruckseite: grau
+    icon: ''
+    icon_ruckseite: ''
   - icon: "/uploads/2018/08/11/icon_tanz.png"
     content: "<p><em>Tanz</em></p>"
     hintergrundfarbe: rose
@@ -60,11 +64,14 @@ mediation_und_training:
     hintergrundfarbe: grau
     content_ruckseite: "<p><strong>KONFLIKT-</strong></p><p><strong>PRÄVENTION</strong></p>"
     hintergrundfarbe_ruckseite: grau
+    icon: ''
+    icon_ruckseite: ''
 kontakt:
   hintergrundbild: "/uploads/2018/08/13/footer_pic.jpg"
   kontaktdaten:
   - icon: map marker alternate
-    content: "<p><strong>Beate Maria Bauer</strong></p><p>Kelheimerstraße 50<br>93333 Hienheim - Neustadt an der Donau</p>"
+    content: "<p><strong>Beate Maria Bauer</strong></p><p>Kelheimerstraße 50<br>93333
+      Hienheim - Neustadt an der Donau</p>"
   - icon: mobile alternate
     content: "<p>0 159 06 04 96 92</p>"
   - icon: envelope outline
